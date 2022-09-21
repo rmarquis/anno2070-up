@@ -22091,7 +22091,7 @@ end]]></SCRIPT>
                     <TYPE>Click</TYPE>
                     <SLOT>SearchButton_Click_1</SLOT>
                     <SCRIPTABLE/>
-                    <SCRIPT><![CDATA[arg.Sender:GetWindow("../../../../../RIGHT/PANEL").Visible = true;]]></SCRIPT>
+                    <SCRIPT><![CDATA[arg.Sender:GetWindow("../../../../../RIGHT/PANEL").Visible = false;]]></SCRIPT>
                   </EVENT>
                 </EVENTLIST>
               </BUTTON>
