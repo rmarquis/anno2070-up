@@ -22061,7 +22061,7 @@ end]]></SCRIPT>
                   <TEXTCOLOR>White</TEXTCOLOR>
                 </TEXTSETTING>
                 <EXTENT>
-                  <TOP>29</TOP>
+                  <TOP>31</TOP>
                   <WIDTH>475</WIDTH>
                   <HEIGHT>49</HEIGHT>
                 </EXTENT>
@@ -22078,7 +22078,7 @@ end]]></SCRIPT>
                   <WIDTH>300</WIDTH>
                   <HEIGHT>43</HEIGHT>
                   <LEFT>167</LEFT>
-                  <TOP>81</TOP>
+                  <TOP>128</TOP>
                 </EXTENT>
                 <BACKGROUND>data/config/gui/backgrounds/prototype/common_buttons/common_button_anchor.bkg</BACKGROUND>
                 <TEXTSETTING>
