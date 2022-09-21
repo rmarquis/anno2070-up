@@ -22984,22 +22984,17 @@ window:UpdateNameLabel();
         <EVENTTYPE>Click</EVENTTYPE>
       </EVENT>
       <ATTRIBUTE>
-        <NAME>FacebookName</NAME>
+        <NAME>Name</NAME>
         <TYPE>4</TYPE>
-        <GETTER><![CDATA[return this.FacebookName;]]></GETTER>
-        <SETTER><![CDATA[this.FacebookName = value;
+        <GETTER><![CDATA[return this.Name;]]></GETTER>
+        <SETTER><![CDATA[this.Name = value;
 window:UpdateNameLabel();
 ]]></SETTER>
       </ATTRIBUTE>
       <ACTION>
         <NAME>UpdateNameLabel</NAME>
         <PARAMETERS/>
-        <SCRIPT><![CDATA[if (this.FacebookName == "") then
-	window:GetWindow("PANEL/NAME").Text = this.Name;
-else
-	window:GetWindow("PANEL/NAME").Text = this.Name .. "<div class=\"facebookname\">" .. this.FacebookName .. "</div>";
-end
-]]></SCRIPT>
+        <SCRIPT><![CDATA[window:GetWindow("PANEL/NAME").Text = this.Name;]]></SCRIPT>
       </ACTION>
     </MODEL>
   </CUSTOM>
