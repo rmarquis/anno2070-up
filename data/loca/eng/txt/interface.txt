@@ -60,7 +60,7 @@
 1000061=The current savegame will be used.
 1000062=Waiting for players...
 1000068=This player is ignoring you. You can not invite him to your game.
-1000063=© 2012 Ubisoft Entertainment. All Rights Reserved. Anno 2070, Ubisoft and the Ubisoft logo are trademarks of Ubisoft Entertainment in the US and/or other countries. Produced by Blue Byte. Developed by Related Designs. Blue Byte and the Blue Byte logo are trademarks of Ubisoft GmbH n the US and/or other countries.
+1000063=© 2012 Ubisoft Entertainment. All Rights Reserved. Anno 2070, Ubisoft and the Ubisoft logo are trademarks of Ubisoft Entertainment in the US and/or other countries. Produced by Blue Byte. Developed by Related Designs. Blue Byte and the Blue Byte logo are trademarks of Ubisoft GmbH in the US and/or other countries.
 1000066=Loading shaders...
 1000067=Not available in the demo version.
 1000070=Hours
