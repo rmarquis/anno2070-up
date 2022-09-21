@@ -707,7 +707,7 @@
 1009757=Connection error
 1009758=Error occurred!
 1009759=A player was unable to connect to this game.
-1009760=Connection could not be established. More troubleshooting tips can be found <a href="http://anno.uk.ubi.com/anno-2070/faq/index.htm">here</a>.
+1009760=Connection could not be established. More troubleshooting tips can be found <a href="https://www.ubisoft.com/help/game/anno-2070">here</a>.
 1009761=Game start interrupted.
 1009762=Transfer canceled by User.
 1009763=Connection lost during data transfer.
@@ -722,7 +722,7 @@
 1009772=Unable to create new game on server.
 1009773=The game is already full.
 1009774=Transmission error during lobby data reception.
-1009776=Connections to the following players failed: [CONTEXT_STRING] You will find some hints on how to solve problems at <a href="http://anno.uk.ubi.com/anno-2070/faq/index.htm">http://anno.uk.ubi.com/anno-2070/faq/index.htm</a>.
+1009776=Connections to the following players failed: [CONTEXT_STRING] You will find some hints on how to solve problems at <a href="https://www.ubisoft.com/help/game/anno-2070">https://www.ubisoft.com/help/game/anno-2070</a>.
 1009777=You have been removed from the game.
 1009778=Unable to load game.
 1009779=Unable to create game. You are already in an active game.
