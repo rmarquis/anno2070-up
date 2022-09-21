@@ -1063,8 +1063,8 @@
 1012796=Look for players
 1012797=Look for mentors
 1012798=A mentor can help you answer questions relating to the game.
-1012799=Look for friends on Facebook
-1012800=You can add all your contacts on Facebook who also play Anno 2070 to your friends' list.
+1012799=Look for players on Annoverse
+1012800=You can find new contacts on the <a href="https://discord.com/invite/V4xhZ8Z">Annoverse Discord</a> in the 2070 channel.
 1012801=You have no contacts in your list at the moment. Use  <a action="GUI.GetWindow('CHAT_LAYER/PLAYER_PROFILING').Visible = true">Find Players</a> to fill your contacts list.<br /><br />Alternatively, you can add contacts by right-clicking a Player's name and selecting "[GUIDNAME 1010796]".
 1012802=Once you contacted other players you can find them again here.
 1012803=You can ignore players you no longer wish to hear from. All ignored players are listed here.
