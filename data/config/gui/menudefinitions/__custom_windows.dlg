@@ -12765,35 +12765,6 @@ window:GetWindow("BUTTON_DISABLED").Visible = (not this.AddonAvailable) and this
         </TEXTSETTING>
         <BACKGROUND/>
       </LABEL>
-      <EVENTLIST>
-        <EVENT>
-          <TYPE>MouseEnterArea</TYPE>
-          <SLOT>Button_MouseEnterArea_3</SLOT>
-          <SCRIPTABLE/>
-          <SCRIPT><![CDATA[local button = arg.Sender:GetWindow("FACEBOOK_CARDLAYOUT/FACEBOOK_BTN");
-
-if (arg.Sender.Enabled) then
-	button.Alpha = 0;
-	button:StopAllFx();
-	button:StartFx(FxAlpha(1, Fx.EaseIn, 0.15, button));
-end;]]></SCRIPT>
-        </EVENT>
-        <EVENT>
-          <TYPE>MouseExitArea</TYPE>
-          <SLOT>Button_MouseExitArea_3</SLOT>
-          <SCRIPTABLE/>
-          <SCRIPT><![CDATA[local button = arg.Sender:GetWindow("FACEBOOK_CARDLAYOUT/FACEBOOK_BTN");
-
-button:StopAllFx();
-button:StartFx(FxAlpha(0, Fx.EaseIn, 0.15, button));]]></SCRIPT>
-        </EVENT>
-        <EVENT>
-          <TYPE>Hide</TYPE>
-          <SLOT>Button_Hide</SLOT>
-          <SCRIPTABLE/>
-          <SCRIPT><![CDATA[arg.Sender.Parent.Highlight = false;]]></SCRIPT>
-        </EVENT>
-      </EVENTLIST>
       <PANEL>
         <PATHID>DECO_LAYER</PATHID>
         <UNIQUEID>268979440</UNIQUEID>
@@ -12990,133 +12961,6 @@ left.Size = Size(width - arg.Sender.Size.X, left.Size.Y);]]></SCRIPT>
         <VISIBLE>0</VISIBLE>
         <TRANSPARENT>1</TRANSPARENT>
       </VIDEOPANEL>
-      <CARDLAYOUT>
-        <PATHID>FACEBOOK_CARDLAYOUT</PATHID>
-        <UNIQUEID>1873466435</UNIQUEID>
-        <TEMPLATE_REF_ID>CARDLAYOUT_TEMPLATE</TEMPLATE_REF_ID>
-        <LABEL>
-          <PATHID>POST_FAILED</PATHID>
-          <UNIQUEID>276424530</UNIQUEID>
-          <TEMPLATE_REF_ID>LABEL_TEMPLATE</TEMPLATE_REF_ID>
-          <ICONGUID>2600007</ICONGUID>
-          <EXTENT>
-            <HEIGHT>30</HEIGHT>
-            <WIDTH>30</WIDTH>
-          </EXTENT>
-          <ICONSTRETCH>1</ICONSTRETCH>
-          <BACKGROUND>
-          </BACKGROUND>
-        </LABEL>
-        <PANEL>
-          <PATHID>LOADING</PATHID>
-          <UNIQUEID>1697992778</UNIQUEID>
-          <TEMPLATE_REF_ID>PANEL_TEMPLATE</TEMPLATE_REF_ID>
-          <EXTENT>
-            <HEIGHT>30</HEIGHT>
-            <WIDTH>30</WIDTH>
-          </EXTENT>
-          <BACKGROUND/>
-          <CLIPPINGDISABLED>1</CLIPPINGDISABLED>
-          <TRANSPARENT>1</TRANSPARENT>
-          <PANEL>
-            <PATHID>CIRCLE_2</PATHID>
-            <UNIQUEID>1226679914</UNIQUEID>
-            <TEMPLATE_REF_ID>PANEL_TEMPLATE</TEMPLATE_REF_ID>
-            <EXTENT>
-              <WIDTH>40</WIDTH>
-              <HEIGHT>40</HEIGHT>
-              <LEFT>-4</LEFT>
-              <TOP>-5</TOP>
-            </EXTENT>
-            <BACKGROUND>data/config/gui/backgrounds/prototype/mainmenu_frames/mainmenu_login_circle_3.bkg</BACKGROUND>
-            <EVENTLIST>
-              <EVENT>
-                <TYPE>Show</TYPE>
-                <SLOT>Circle2_Show</SLOT>
-                <SCRIPTABLE/>
-                <SCRIPT><![CDATA[arg.Sender.Rotation = 0;
-GUI.StartFx(FxLoop(-1, FxRotate(0, 0, 3.14, Fx.Linear, 1, arg.Sender)), arg.Sender)
-]]></SCRIPT>
-              </EVENT>
-              <EVENT>
-                <TYPE>Hide</TYPE>
-                <SLOT>Circle2_Hide</SLOT>
-                <SCRIPTABLE/>
-                <SCRIPT><![CDATA[arg.Sender:StopAllFx()]]></SCRIPT>
-              </EVENT>
-            </EVENTLIST>
-            <TRANSPARENT>1</TRANSPARENT>
-            <LAYOUTMODEH>3</LAYOUTMODEH>
-            <LAYOUTMODEV>3</LAYOUTMODEV>
-          </PANEL>
-          <PANEL>
-            <PATHID>CIRCLE_1</PATHID>
-            <UNIQUEID>2063608470</UNIQUEID>
-            <TEMPLATE_REF_ID>PANEL_TEMPLATE</TEMPLATE_REF_ID>
-            <EXTENT>
-              <WIDTH>40</WIDTH>
-              <HEIGHT>40</HEIGHT>
-            </EXTENT>
-            <BACKGROUND>data/config/gui/backgrounds/prototype/mainmenu_frames/mainmenu_login_circle_2.bkg</BACKGROUND>
-            <EVENTLIST>
-              <EVENT>
-                <TYPE>Show</TYPE>
-                <SLOT>Circle1_Show</SLOT>
-                <SCRIPTABLE/>
-                <SCRIPT><![CDATA[arg.Sender.Rotation = 0;
-GUI.StartFx(FxLoop(-1, FxRotate(0, 0, -3.14, Fx.Linear, 1, arg.Sender)), arg.Sender)
-]]></SCRIPT>
-              </EVENT>
-              <EVENT>
-                <TYPE>Hide</TYPE>
-                <SLOT>Circle1_Hide</SLOT>
-                <SCRIPTABLE/>
-                <SCRIPT><![CDATA[arg.Sender:StopAllFx()]]></SCRIPT>
-              </EVENT>
-            </EVENTLIST>
-            <TRANSPARENT>1</TRANSPARENT>
-            <LAYOUTMODEH>3</LAYOUTMODEH>
-            <LAYOUTMODEV>3</LAYOUTMODEV>
-          </PANEL>
-        </PANEL>
-        <BUTTON>
-          <PATHID>FACEBOOK_BTN</PATHID>
-          <UNIQUEID>149845989</UNIQUEID>
-          <TEMPLATE_REF_ID>FACEBOOKBUTTON_SMALL</TEMPLATE_REF_ID>
-          <ACCESSID>ACHIEVEMENT_FACEBOOK_BTN</ACCESSID>
-          <ALPHA>0</ALPHA>
-          <EXTENT>
-            <HEIGHT>24</HEIGHT>
-            <WIDTH>24</WIDTH>
-            <TOP>3</TOP>
-            <LEFT>2</LEFT>
-          </EXTENT>
-          <BACKGROUND>data/config/gui/backgrounds/prototype/common_buttons/common_facebook_large.bkg</BACKGROUND>
-          <SCALEX>1</SCALEX>
-          <SCALEY>1</SCALEY>
-        </BUTTON>
-        <LABEL>
-          <PATHID>POST_CONFIRMED</PATHID>
-          <UNIQUEID>381730272</UNIQUEID>
-          <TEMPLATE_REF_ID>LABEL_TEMPLATE</TEMPLATE_REF_ID>
-          <ICONGUID>2600006</ICONGUID>
-          <EXTENT>
-            <HEIGHT>30</HEIGHT>
-            <WIDTH>30</WIDTH>
-          </EXTENT>
-          <ICONSTRETCH>1</ICONSTRETCH>
-          <BACKGROUND>
-          </BACKGROUND>
-        </LABEL>
-        <EXTENT>
-          <HEIGHT>30</HEIGHT>
-          <WIDTH>30</WIDTH>
-          <LEFT>387</LEFT>
-          <TOP>1</TOP>
-        </EXTENT>
-        <BACKGROUND>
-        </BACKGROUND>
-      </CARDLAYOUT>
     </BUTTON>
     <EXTENT>
       <WIDTH>483</WIDTH>
@@ -13142,12 +12986,10 @@ window:UpdateState();]]></SETTER>
 local medal = button:GetWindow("MEDAL");
 local label = button:GetWindow("NAME");
 local description = button:GetWindow("DESCRIPTION");
-local fb = button:GetWindow("FACEBOOK_CARDLAYOUT/FACEBOOK_BTN");
 
 -- not cleared
 if (this.State == 0) then
 	medal.Alpha = 0.5;
-	fb.Visible = false;
 	button.Enabled = false;
 	local color = HsvaColor();
 	color.S = 0;
@@ -13159,7 +13001,6 @@ if (this.State == 0) then
 -- silver
 elseif (this.State == 1) then
 	medal.Alpha = 1;
-	fb.Visible = true;
 	button.Enabled = true;
 	button.Color = HsvaColor();
 	label:SelectStyle("gradientHeadline");
@@ -13167,7 +13008,6 @@ elseif (this.State == 1) then
 -- gold
 else
 	medal.Alpha = 1;
-	fb.Visible = true;
 	button.Enabled = true;
 	button.Color = HsvaColor();
 	label:SelectStyle("gradientHeadline");
@@ -13215,11 +13055,6 @@ window:GetWindow("BUTTON/NAME").Text = value;]]></SETTER>
         <SETTER><![CDATA[this.Type = value;
 window:UpdateState();]]></SETTER>
       </ATTRIBUTE>
-      <EVENT>
-        <NAME>OnPublish</NAME>
-        <PATH>/BUTTON/FACEBOOK_CARDLAYOUT/FACEBOOK_BTN</PATH>
-        <EVENTTYPE>Click</EVENTTYPE>
-      </EVENT>
       <ATTRIBUTE>
         <NAME>Description</NAME>
         <TYPE>4</TYPE>
@@ -13284,26 +13119,6 @@ window:GetWindow("BUTTON/HIGHLIGHT_VIDEO").Visible = value;]]></SETTER>
         <GETTER><![CDATA[return this.VideoFilename;]]></GETTER>
         <SETTER><![CDATA[this.VideoFilename = value;
 window:GetWindow("BUTTON/HIGHLIGHT_VIDEO").VideoFile = value;]]></SETTER>
-      </ATTRIBUTE>
-      <ATTRIBUTE>
-        <NAME>Publish</NAME>
-        <TYPE>0</TYPE>
-        <GETTER><![CDATA[return this.Publish;]]></GETTER>
-        <SETTER><![CDATA[this.Publish = value;
-
-if value == 0 then 
-	window:GetWindow("BUTTON/FACEBOOK_CARDLAYOUT").ActivatedChild=window:GetWindow("BUTTON/FACEBOOK_CARDLAYOUT/FACEBOOK_BTN");
-
-elseif value == 1 then 
-	window:GetWindow("BUTTON/FACEBOOK_CARDLAYOUT").ActivatedChild=window:GetWindow("BUTTON/FACEBOOK_CARDLAYOUT/LOADING");
-
-elseif value == 2 then 
-	window:GetWindow("BUTTON/FACEBOOK_CARDLAYOUT").ActivatedChild=window:GetWindow("BUTTON/FACEBOOK_CARDLAYOUT/POST_CONFIRMED");
-	
-elseif value == 3 then 
-	window:GetWindow("BUTTON/FACEBOOK_CARDLAYOUT").ActivatedChild=window:GetWindow("BUTTON/FACEBOOK_CARDLAYOUT/POST_FAILED");
-	
-end;]]></SETTER>
       </ATTRIBUTE>
     </MODEL>
   </CUSTOM>
@@ -18822,134 +18637,6 @@ window:GetWindow("PANEL/PROGRESS/PROGRESS_TEXT").Text = value;]]></SETTER>
           <COLOROPERATION>3</COLOROPERATION>
           <TRANSPARENT>1</TRANSPARENT>
         </LABEL>
-        <CARDLAYOUT>
-          <PATHID>FACEBOOK_CARDLAYOUT</PATHID>
-          <UNIQUEID>397961640</UNIQUEID>
-          <TEMPLATE_REF_ID>CARDLAYOUT_TEMPLATE</TEMPLATE_REF_ID>
-          <LABEL>
-            <PATHID>POST_FAILED</PATHID>
-            <UNIQUEID>584738815</UNIQUEID>
-            <TEMPLATE_REF_ID>LABEL_TEMPLATE</TEMPLATE_REF_ID>
-            <ICONGUID>2600007</ICONGUID>
-            <EXTENT>
-              <HEIGHT>30</HEIGHT>
-              <WIDTH>30</WIDTH>
-            </EXTENT>
-            <ICONSTRETCH>1</ICONSTRETCH>
-            <BACKGROUND/>
-          </LABEL>
-          <PANEL>
-            <PATHID>LOADING</PATHID>
-            <UNIQUEID>1705711290</UNIQUEID>
-            <TEMPLATE_REF_ID>PANEL_TEMPLATE</TEMPLATE_REF_ID>
-            <EXTENT>
-              <HEIGHT>30</HEIGHT>
-              <WIDTH>30</WIDTH>
-            </EXTENT>
-            <BACKGROUND/>
-            <CLIPPINGDISABLED>1</CLIPPINGDISABLED>
-            <TRANSPARENT>1</TRANSPARENT>
-            <PANEL>
-              <PATHID>CIRCLE_2</PATHID>
-              <UNIQUEID>136549814</UNIQUEID>
-              <TEMPLATE_REF_ID>PANEL_TEMPLATE</TEMPLATE_REF_ID>
-              <EXTENT>
-                <WIDTH>40</WIDTH>
-                <HEIGHT>40</HEIGHT>
-                <LEFT>-4</LEFT>
-                <TOP>-5</TOP>
-              </EXTENT>
-              <BACKGROUND>data/config/gui/backgrounds/prototype/mainmenu_frames/mainmenu_login_circle_3.bkg</BACKGROUND>
-              <EVENTLIST>
-                <EVENT>
-                  <TYPE>Show</TYPE>
-                  <SLOT>Circle2_Show</SLOT>
-                  <SCRIPTABLE/>
-                  <SCRIPT><![CDATA[arg.Sender.Rotation = 0;
-GUI.StartFx(FxLoop(-1, FxRotate(0, 0, 3.14, Fx.Linear, 1, arg.Sender)), arg.Sender)
-]]></SCRIPT>
-                </EVENT>
-                <EVENT>
-                  <TYPE>Hide</TYPE>
-                  <SLOT>Circle2_Hide</SLOT>
-                  <SCRIPTABLE/>
-                  <SCRIPT><![CDATA[arg.Sender:StopAllFx()]]></SCRIPT>
-                </EVENT>
-              </EVENTLIST>
-              <TRANSPARENT>1</TRANSPARENT>
-              <LAYOUTMODEH>3</LAYOUTMODEH>
-              <LAYOUTMODEV>3</LAYOUTMODEV>
-            </PANEL>
-            <PANEL>
-              <PATHID>CIRCLE_1</PATHID>
-              <UNIQUEID>587898221</UNIQUEID>
-              <TEMPLATE_REF_ID>PANEL_TEMPLATE</TEMPLATE_REF_ID>
-              <EXTENT>
-                <WIDTH>40</WIDTH>
-                <HEIGHT>40</HEIGHT>
-              </EXTENT>
-              <BACKGROUND>data/config/gui/backgrounds/prototype/mainmenu_frames/mainmenu_login_circle_2.bkg</BACKGROUND>
-              <EVENTLIST>
-                <EVENT>
-                  <TYPE>Show</TYPE>
-                  <SLOT>Circle1_Show</SLOT>
-                  <SCRIPTABLE/>
-                  <SCRIPT><![CDATA[arg.Sender.Rotation = 0;
-GUI.StartFx(FxLoop(-1, FxRotate(0, 0, -3.14, Fx.Linear, 1, arg.Sender)), arg.Sender)
-]]></SCRIPT>
-                </EVENT>
-                <EVENT>
-                  <TYPE>Hide</TYPE>
-                  <SLOT>Circle1_Hide</SLOT>
-                  <SCRIPTABLE/>
-                  <SCRIPT><![CDATA[arg.Sender:StopAllFx()]]></SCRIPT>
-                </EVENT>
-              </EVENTLIST>
-              <TRANSPARENT>1</TRANSPARENT>
-              <LAYOUTMODEH>3</LAYOUTMODEH>
-              <LAYOUTMODEV>3</LAYOUTMODEV>
-            </PANEL>
-          </PANEL>
-          <BUTTON>
-            <PATHID>FACEBOOK_BTN</PATHID>
-            <UNIQUEID>391173262</UNIQUEID>
-            <TEMPLATE_REF_ID>FACEBOOKBUTTON_SMALL</TEMPLATE_REF_ID>
-            <ACCESSID>WORLDPATRON_FACEBOOK_BTN</ACCESSID>
-            <EXTENT>
-              <HEIGHT>24</HEIGHT>
-              <WIDTH>24</WIDTH>
-              <TOP>3</TOP>
-              <LEFT>2</LEFT>
-            </EXTENT>
-            <BACKGROUND>data/config/gui/backgrounds/prototype/common_buttons/common_facebook_large.bkg</BACKGROUND>
-            <SCALEX>1</SCALEX>
-            <SCALEY>1</SCALEY>
-            <TOOLTIP>
-              <TEXT>1118792</TEXT>
-            </TOOLTIP>
-          </BUTTON>
-          <LABEL>
-            <PATHID>POST_CONFIRMED</PATHID>
-            <UNIQUEID>1996661307</UNIQUEID>
-            <TEMPLATE_REF_ID>LABEL_TEMPLATE</TEMPLATE_REF_ID>
-            <ICONGUID>2600006</ICONGUID>
-            <EXTENT>
-              <HEIGHT>30</HEIGHT>
-              <WIDTH>30</WIDTH>
-            </EXTENT>
-            <ICONSTRETCH>1</ICONSTRETCH>
-            <BACKGROUND/>
-          </LABEL>
-          <EXTENT>
-            <HEIGHT>30</HEIGHT>
-            <WIDTH>30</WIDTH>
-            <LEFT>192</LEFT>
-            <TOP>483</TOP>
-          </EXTENT>
-          <BACKGROUND/>
-          <ZORDER>1</ZORDER>
-          <CLIPPINGDISABLED>1</CLIPPINGDISABLED>
-        </CARDLAYOUT>
       </PANEL>
       <TOGGLEBUTTON>1</TOGGLEBUTTON>
       <PADDINGBOTTOM>-50</PADDINGBOTTOM>
@@ -19155,7 +18842,6 @@ wnd:GetWindow("DISABLED_BACKGROUND").Visible = not value;
 local btn = window:GetWindow("BUTTON");
 btn.Toggled = false;
 btn.Enabled = value;
-window:GetWindow("BUTTON/CONTENT/FACEBOOK_CARDLAYOUT").Visible = false;
 
 local actions = window:GetWindow("BUTTON/CONTENT/ACTIONS");
 local symbol = window:GetWindow("BUTTON/CONTENT/SYMBOL");
@@ -19200,7 +18886,6 @@ window:GetWindow("BUTTON/CONTENT/ACTION_SUBLINE").Color = color;
         <TYPE>2</TYPE>
         <GETTER><![CDATA[return window:GetWindow("BUTTON").Toggled;]]></GETTER>
         <SETTER><![CDATA[window:GetWindow("BUTTON"):SetToggleStatus(value, false, false);
-window:GetWindow("BUTTON/CONTENT/FACEBOOK_CARDLAYOUT").Visible = value;
 window:GetWindow("BUTTON/INPUT_BLOCKER").Visible = value;
 
 local voteDisplay = window:GetWindow("BUTTON/VOTE_DISPLAY");
@@ -19210,36 +18895,11 @@ local buttonText = window:GetWindow("BUTTON/BOXLAYOUT");
 buttonText.Visible = not value;
 voteDisplay.Visible = value;]]></SETTER>
       </ATTRIBUTE>
-      <EVENT>
-        <NAME>PublishOnFacebook</NAME>
-        <PATH>/BUTTON/CONTENT/FACEBOOK_CARDLAYOUT/FACEBOOK_BTN</PATH>
-        <EVENTTYPE>Click</EVENTTYPE>
-      </EVENT>
       <ATTRIBUTE>
         <NAME>Portrait</NAME>
         <TYPE>5</TYPE>
         <GETTER><![CDATA[return window:GetWindow("BUTTON/CONTENT/PORTRAIT/PORTRAIT_OBJECT");]]></GETTER>
         <SETTER><![CDATA[]]></SETTER>
-      </ATTRIBUTE>
-      <ATTRIBUTE>
-        <NAME>Publish</NAME>
-        <TYPE>0</TYPE>
-        <GETTER><![CDATA[return this.Publish;]]></GETTER>
-        <SETTER><![CDATA[this.Publish = value;
-
-if value == 0 then 
-	window:GetWindow("BUTTON/CONTENT/FACEBOOK_CARDLAYOUT").ActivatedChild=window:GetWindow("BUTTON/CONTENT/FACEBOOK_CARDLAYOUT/FACEBOOK_BTN");
-
-elseif value == 1 then 
-	window:GetWindow("BUTTON/CONTENT/FACEBOOK_CARDLAYOUT").ActivatedChild=window:GetWindow("BUTTON/CONTENT/FACEBOOK_CARDLAYOUT/LOADING");
-
-elseif value == 2 then 
-	window:GetWindow("BUTTON/CONTENT/FACEBOOK_CARDLAYOUT").ActivatedChild=window:GetWindow("BUTTON/CONTENT/FACEBOOK_CARDLAYOUT/POST_CONFIRMED");
-	
-elseif value == 3 then 
-	window:GetWindow("BUTTON/CONTENT/FACEBOOK_CARDLAYOUT").ActivatedChild=window:GetWindow("BUTTON/CONTENT/FACEBOOK_CARDLAYOUT/POST_FAILED");
-	
-end;]]></SETTER>
       </ATTRIBUTE>
     </MODEL>
   </CUSTOM>
@@ -23567,180 +23227,6 @@ window:GetWindow("PANEL/ICON").Visible = false;]]></SETTER>
         <SETTER><![CDATA[this.IconVisible = value;
 window:GetWindow("PANEL/PORTRAIT").Visible = false;
 window:GetWindow("PANEL/ICON").Visible = true;]]></SETTER>
-      </ATTRIBUTE>
-    </MODEL>
-  </CUSTOM>
-  <CUSTOM>
-    <PATHID>FACEBOOK_CARDLAYOUT</PATHID>
-    <UNIQUEID>729237272</UNIQUEID>
-    <TEMPLATE_REF_ID>CUSTOM_TEMPLATE</TEMPLATE_REF_ID>
-    <CARDLAYOUT>
-      <PATHID>FACEBOOK_CARDLAYOUT</PATHID>
-      <UNIQUEID>812724890</UNIQUEID>
-      <TEMPLATE_REF_ID>CARDLAYOUT_TEMPLATE</TEMPLATE_REF_ID>
-      <LABEL>
-        <PATHID>POST_FAILED</PATHID>
-        <UNIQUEID>1071536875</UNIQUEID>
-        <TEMPLATE_REF_ID>LABEL_TEMPLATE</TEMPLATE_REF_ID>
-        <ICONGUID>2600007</ICONGUID>
-        <EXTENT>
-          <HEIGHT>30</HEIGHT>
-          <WIDTH>30</WIDTH>
-        </EXTENT>
-        <ICONSTRETCH>1</ICONSTRETCH>
-        <BACKGROUND/>
-      </LABEL>
-      <PANEL>
-        <PATHID>LOADING</PATHID>
-        <UNIQUEID>805298070</UNIQUEID>
-        <TEMPLATE_REF_ID>PANEL_TEMPLATE</TEMPLATE_REF_ID>
-        <EXTENT>
-          <HEIGHT>30</HEIGHT>
-          <WIDTH>30</WIDTH>
-        </EXTENT>
-        <BACKGROUND/>
-        <CLIPPINGDISABLED>1</CLIPPINGDISABLED>
-        <TRANSPARENT>1</TRANSPARENT>
-        <PANEL>
-          <PATHID>CIRCLE_2</PATHID>
-          <UNIQUEID>985823359</UNIQUEID>
-          <TEMPLATE_REF_ID>PANEL_TEMPLATE</TEMPLATE_REF_ID>
-          <EXTENT>
-            <WIDTH>40</WIDTH>
-            <HEIGHT>40</HEIGHT>
-            <LEFT>-4</LEFT>
-            <TOP>-5</TOP>
-          </EXTENT>
-          <BACKGROUND>data/config/gui/backgrounds/prototype/mainmenu_frames/mainmenu_login_circle_3.bkg</BACKGROUND>
-          <EVENTLIST>
-            <EVENT>
-              <TYPE>Show</TYPE>
-              <SLOT>Circle2_Show</SLOT>
-              <SCRIPTABLE/>
-              <SCRIPT><![CDATA[arg.Sender.Rotation = 0;
-GUI.StartFx(FxLoop(-1, FxRotate(0, 0, 3.14, Fx.Linear, 1, arg.Sender)), arg.Sender)
-]]></SCRIPT>
-            </EVENT>
-            <EVENT>
-              <TYPE>Hide</TYPE>
-              <SLOT>Circle2_Hide</SLOT>
-              <SCRIPTABLE/>
-              <SCRIPT><![CDATA[arg.Sender:StopAllFx()]]></SCRIPT>
-            </EVENT>
-          </EVENTLIST>
-          <TRANSPARENT>1</TRANSPARENT>
-          <LAYOUTMODEH>3</LAYOUTMODEH>
-          <LAYOUTMODEV>3</LAYOUTMODEV>
-        </PANEL>
-        <PANEL>
-          <PATHID>CIRCLE_1</PATHID>
-          <UNIQUEID>2120957043</UNIQUEID>
-          <TEMPLATE_REF_ID>PANEL_TEMPLATE</TEMPLATE_REF_ID>
-          <EXTENT>
-            <WIDTH>40</WIDTH>
-            <HEIGHT>40</HEIGHT>
-          </EXTENT>
-          <BACKGROUND>data/config/gui/backgrounds/prototype/mainmenu_frames/mainmenu_login_circle_2.bkg</BACKGROUND>
-          <EVENTLIST>
-            <EVENT>
-              <TYPE>Show</TYPE>
-              <SLOT>Circle1_Show</SLOT>
-              <SCRIPTABLE/>
-              <SCRIPT><![CDATA[arg.Sender.Rotation = 0;
-GUI.StartFx(FxLoop(-1, FxRotate(0, 0, -3.14, Fx.Linear, 1, arg.Sender)), arg.Sender)
-]]></SCRIPT>
-            </EVENT>
-            <EVENT>
-              <TYPE>Hide</TYPE>
-              <SLOT>Circle1_Hide</SLOT>
-              <SCRIPTABLE/>
-              <SCRIPT><![CDATA[arg.Sender:StopAllFx()]]></SCRIPT>
-            </EVENT>
-          </EVENTLIST>
-          <TRANSPARENT>1</TRANSPARENT>
-          <LAYOUTMODEH>3</LAYOUTMODEH>
-          <LAYOUTMODEV>3</LAYOUTMODEV>
-        </PANEL>
-      </PANEL>
-      <BUTTON>
-        <PATHID>FACEBOOK_BTN</PATHID>
-        <UNIQUEID>1368323026</UNIQUEID>
-        <TEMPLATE_REF_ID>FACEBOOKBUTTON_SMALL</TEMPLATE_REF_ID>
-        <ACCESSID>ACHIEVEMENT_FACEBOOK_BTN1</ACCESSID>
-        <EXTENT>
-          <HEIGHT>24</HEIGHT>
-          <WIDTH>24</WIDTH>
-          <TOP>3</TOP>
-          <LEFT>2</LEFT>
-        </EXTENT>
-        <BACKGROUND>data/config/gui/backgrounds/prototype/common_buttons/common_facebook_large.bkg</BACKGROUND>
-        <SCALEX>1</SCALEX>
-        <SCALEY>1</SCALEY>
-        <TOOLTIP>
-          <TEXT>-1</TEXT>
-        </TOOLTIP>
-      </BUTTON>
-      <LABEL>
-        <PATHID>POST_CONFIRMED</PATHID>
-        <UNIQUEID>1210119220</UNIQUEID>
-        <TEMPLATE_REF_ID>LABEL_TEMPLATE</TEMPLATE_REF_ID>
-        <ICONGUID>2600006</ICONGUID>
-        <EXTENT>
-          <HEIGHT>30</HEIGHT>
-          <WIDTH>30</WIDTH>
-        </EXTENT>
-        <ICONSTRETCH>1</ICONSTRETCH>
-        <BACKGROUND/>
-      </LABEL>
-      <EXTENT>
-        <HEIGHT>30</HEIGHT>
-        <WIDTH>30</WIDTH>
-        <LEFT>1</LEFT>
-        <TOP>1</TOP>
-      </EXTENT>
-      <BACKGROUND/>
-    </CARDLAYOUT>
-    <EXTENT>
-      <LEFT>359</LEFT>
-      <TOP>204</TOP>
-      <WIDTH>32</WIDTH>
-      <HEIGHT>32</HEIGHT>
-    </EXTENT>
-    <MODEL>
-      <NAME>Facebook_Cardlayout</NAME>
-      <CONSTRUCTOR><![CDATA[]]></CONSTRUCTOR>
-      <UNIQUEID>1718308182</UNIQUEID>
-      <ATTRIBUTE>
-        <NAME>Publish</NAME>
-        <TYPE>0</TYPE>
-        <GETTER><![CDATA[return this.Publish;]]></GETTER>
-        <SETTER><![CDATA[this.Publish = value;
-
-if value == 0 then 
-	window:GetWindow("FACEBOOK_CARDLAYOUT").ActivatedChild=window:GetWindow("FACEBOOK_CARDLAYOUT/FACEBOOK_BTN");
-
-elseif value == 1 then 
-	window:GetWindow("FACEBOOK_CARDLAYOUT").ActivatedChild=window:GetWindow("FACEBOOK_CARDLAYOUT/LOADING");
-
-elseif value == 2 then 
-	window:GetWindow("FACEBOOK_CARDLAYOUT").ActivatedChild=window:GetWindow("FACEBOOK_CARDLAYOUT/POST_CONFIRMED");
-	
-elseif value == 3 then 
-	window:GetWindow("FACEBOOK_CARDLAYOUT").ActivatedChild=window:GetWindow("FACEBOOK_CARDLAYOUT/POST_FAILED");
-	
-end;]]></SETTER>
-      </ATTRIBUTE>
-      <EVENT>
-        <NAME>OnPublish</NAME>
-        <PATH>/FACEBOOK_CARDLAYOUT/FACEBOOK_BTN</PATH>
-        <EVENTTYPE>Click</EVENTTYPE>
-      </EVENT>
-      <ATTRIBUTE>
-        <NAME>ToolTipGUID</NAME>
-        <TYPE>0</TYPE>
-        <GETTER><![CDATA[return TooltipTextID;]]></GETTER>
-        <SETTER><![CDATA[window:GetWindow("FACEBOOK_CARDLAYOUT/FACEBOOK_BTN"):GenerateTooltips(value, CGUIWndButton.TTS_ALL);
-this.ToolTipGUID = value;]]></SETTER>
       </ATTRIBUTE>
     </MODEL>
   </CUSTOM>
