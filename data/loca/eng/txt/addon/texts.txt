@@ -1,0 +1,2940 @@
+#----------------------------------------------
+# Texts, valid guid range: 40000000 - 49999999
+#----------------------------------------------
+
+
+
+# guids 40000000 - 40999999
+#---------------------------
+
+40000000=addonBalancing
+40000001=Energy transmitter
+40000002=[GUIDNAME 40000001]
+40000003=Tsunami
+40000004=Geothermic power plant
+40000005=geothermical_base
+40000006=Geniuses' residence
+40000007=Gen farming laboratory
+40000008=Bacteria culture
+40000009=Electronic recycler
+40000010=Sponge farm
+40000011=Sponge colonies
+40000012=Cybernetic factory
+40000013=Oxidation facility
+40000014=Lithium production facility
+40000015=Salt filter
+40000016=Bionics factory
+40000017=Laboratory outfitter
+40000018=Hydraulic plant
+40000019=Immunity drug manufacturers
+40000021=Science Forum foundation
+40000022=Science Forum Construction phase 1 
+40000023=Science Forum Construction phase 2
+40000024=Science Forum
+40000025=Platinum metal converter
+40000108=Defense platform
+40000109=Sisyphus
+40000110=Atlas 
+40000112=TsunamiDisasterEasy
+40000113=Tsunami
+40000114=TsunamiDisasterMedium
+40000115=TsunamiDisasterHard
+40000116=[GUIDNAME 40000004]
+40000123=Park indentation
+40000124=Park protrusion
+40000125=Park diagonal path
+40000126=Park diagonal hedge
+40000127=Free space
+40000128=Park hedge
+40000129=Park straight
+40000130=Drone light
+40000131=Cyberntic H.U.D.
+40000132=Fountain
+40000133=Glass tunnel area
+40000134=Glass tunnel junction
+40000135=Glass tunnel straight
+40000136=Glass tunnel T-junction
+40000137=Hologram "Swordfish"
+40000138=Hologram "Shark"
+40000139=Hologram "Jellyfish"
+40000140=Hologram "Orca"
+40000141=Hologram "Manta"
+40000142=Copse "Duet"
+40000156=Airfield 3x6
+40000157=Airfield 3x3
+40000159=Coral breeder
+40000160=Express delivery <icon type="autosize" guid="2500000" /> [GUIDNAME 2500000]
+40000161=Express delivery <icon type="autosize" guid="2500016" /> [GUIDNAME 2500016]
+40000162=Express delivery <icon type="autosize" guid="2500017" /> [GUIDNAME 2500017]
+40000163=TsunamiDisasterCampaign
+40000164=TsunamiDisasterComponentCampaign
+40000165=Tsunami_Sceanrio_Easy
+40000167=[GUIDNAME 10149] [GUIDNAME 2505001]
+40000169=Underwater receiving dock
+40010029=Coral field
+40010030=Seemine
+40010031=Underwater Seamine
+40000174=Egon
+40010032=[GUIDNAME 20066]
+40010033=[GUIDNAME 20066]
+40010034=[GUIDNAME 20066]
+
+
+# Items 40000026 - 40010025
+
+40000026=Test
+40000027=SeaMines
+40000028=MissileDefence
+40000029=SeaChart
+40000030=GhostStealthItems
+40000031=StopProtest
+40000032=GhostDetection
+40000033=CleanNeutralEcoBuilding
+40000034=Spare time subsidization
+40000035=Energy saving act
+40000036=Improved Deepsea turbines
+40000037=Safety protocol I
+40000038=Hybrid sheathing
+40000039=Geoseismic damper 1.0
+40000040=Geoseismic damper 2.0
+40000041=Geoseismic damper 3.0
+40000042=Fermentation catalyst
+40000043=Advanced etching
+40000044=Spongin essence
+40000045=Neutron microscope
+40000046=Laser-controlled spray head
+40000047=Gigantic water nozzle
+40000048=Vacuum chambers
+40000049=Radiation sterilization
+40000050=Multi-axis milling
+40000051=High-precision mixer
+40000052=Platinum optimized reflector system
+40000053=Gold optimized reflector system
+40000054=Copper optimized reflector system
+40000055=Uranium optimized reflector system
+40000056=Iron optimized reflector system
+40000057=Coated Reactor vessel
+40000058=Magnetized drones
+40000059=Bud accelerator
+40000060=Precision scanners
+40000061=Drying additive
+40000062=Solids filter
+40000063=Endothermic welding process
+40000064=Hardened molds
+40000065=Diamond hardened cutter heads
+40000066=Calibrated filling station
+40000067=Galvanized powder coating
+40000068=Hydrophobic gel
+40000069=Dirt-repellent paint
+40000070=Phosphate grease
+40000071=Sealing primer
+40000072=Heat-resistant tapping fluids
+40000073=Water-based impregnation
+40000074=Neutralization tank
+40000077=Vacuum seal
+40000078=Plasma activated gases
+40000079=Coupled dispenser
+40000080=Seawater cooling
+40000081=Reactive plasma
+40000082=Coupled turbine
+40000083=Outsourced material tests
+40000084=Aqua regia
+40000085=Intelligent production line
+40000086=Osmotic filtration
+40000087=Steam pressure generator
+40000088=Hot water pump
+40000089=Thermodynamic borehole
+40000090=Thermochemical depot
+40000091=Heat flow generator
+40000092=Automated maintenance
+40000093=Cooling water treatment
+40000094=Carbon-coated transmitter head
+40000095=Extended coil battery
+40000096=Autonomous pipe maintenance unit
+40000097=Seismic pressure regulator
+40000098=Soundwave-based sensor system
+40000099=Extended Sensoric Interface
+40000111=Artificial Sponge strain
+40000100=[GUIDNAME 40000109] - Propeller adjustment
+40000101=[GUIDNAME 40000109] air compressor
+40000102=[GUIDNAME 40000109] - Automized cargo allocation
+40000103=[GUIDNAME 40000109] - Logistic interface
+40000104=[GUIDNAME 40000110] - Gliding body alloy
+40000105=[GUIDNAME 40000110] - Cerosine tank expansion
+40000106=[GUIDNAME 40000110] - Body deepening
+40000107=[GUIDNAME 40000110] - Extended system
+40000117=Ying-Yang regulator
+40000118=Persuasion emitter
+40000119=Virtual facades
+40000120=Naval mine TX 05
+40000121=Sonar
+40000122=Silent running System module
+40000143=Basalt cutter head 2.0
+40000144=Coal plough 2.0
+40000145=Copper drill 2.0
+40000146=Iron drill bit 2.0
+40000147=Limestone drill bit 2.0
+40000148=Oil drill head 2.0
+40000149=Uranium drill bit 2.0
+40000150=Gold filter 2.0
+40000151=Lobster farm baskets 2.0
+40000152=Sand filter 2.0
+40000153=Council discount
+40000154=Board discount
+40000155=External funding allowance
+40000158=Silent running
+40000166=Same growth at a reduced cost.
+40000168=Blueprint: [GUIDNAME 40000167]
+40000170=Deregulation algorithm
+40000171=Archeological drone
+40000172=Clearance device
+40000173=Missile shield
+40000176=Very old Satellite uplink data
+40000177=Complete Satellite uplink data
+40000178=Anti-escalation equipment
+40000179=Complete satellite uplink data
+40000180=Sea mine TX 01
+40000181=Sea mine TX 02
+40000182=Sea mine TX 03
+40000183=Incomplete satellite uplink data
+40000184=[GUIDNAME 61220]
+40000185=[GUIDNAME 61219]
+40000186=[GUIDNAME 61218]
+40000187=[GUIDNAME 61217]
+40000189=[GUIDNAME 60944]
+40000190=[GUIDNAME 61215]
+40000191=[GUIDNAME 61214]
+40000192=VehiclePool
+40000193=ProductionPool
+40000194=SpecialPool
+40000195=MilitaryPool
+40000196=PublicPool
+40000197=EcologicProductionPool
+40000198=EnergyProductionPool
+40000199=[GUIDNAME 61214]
+40000200=[GUIDNAME 41001252] [GUIDNAME 41200002]
+40000201=[GUIDNAME 41001252] [GUIDNAME 41200003]
+40000202=[GUIDNAME 41001252] [GUIDNAME 41200000]
+40000203=[GUIDNAME 41001252] [GUIDNAME 41200001]
+
+
+# Thirdparty Trade Upgrades -1 - -1
+
+
+
+# Title 40010026 - 40010225
+
+40010028=A born ruler
+
+
+# Interface 41000000 - 41099999
+#-------------------------------
+
+
+
+# MainMenu 41000000 - 41000999
+
+
+
+# GameSettings -1 - -1
+
+41000000=Hostile takeover
+41000009=Addon
+41000012=Number of [GUIDNAME 41001201]
+41000504=One
+41000507=One + Tech
+41000508=Both
+41000509=Both + Tech
+41000511=Tech
+
+
+# Tooltips -1 - -1
+
+
+
+# Achievements -1 - -1
+
+
+
+# Categories -1 - -1
+
+41000003=<table class="bonus-content-achievement-category-header"><tr><td class="bonus-content-achievement-category-name">Diplomacy</td><td class="bonus-content-achievement-category-count">[ACHIEVEMENT_COUNT 0 41000003]</td><tr></table>
+41000002=<table class="bonus-content-achievement-category-header"><tr><td class="bonus-content-achievement-category-name">Research</td><td class="bonus-content-achievement-category-count">[ACHIEVEMENT_COUNT 0 41000002]</td><tr></table>
+41000004=<table class="bonus-content-achievement-category-header"><tr><td class="bonus-content-achievement-category-name">Economy</td><td class="bonus-content-achievement-category-count">[ACHIEVEMENT_COUNT 0 41000004]</td><tr></table>
+41000005=<table class="bonus-content-achievement-category-header"><tr><td class="bonus-content-achievement-category-name">Development</td><td class="bonus-content-achievement-category-count">[ACHIEVEMENT_COUNT 0 41000005]</td><tr></table>
+41000006=<table class="bonus-content-achievement-category-header"><tr><td class="bonus-content-achievement-category-name">Military</td><td class="bonus-content-achievement-category-count">[ACHIEVEMENT_COUNT 0 41000006]</td><tr></table>
+41000007=<table class="bonus-content-achievement-category-header"><tr><td class="bonus-content-achievement-category-name">Quests</td><td class="bonus-content-achievement-category-count">[ACHIEVEMENT_COUNT 0 41000007]</td><tr></table>
+41000008=<table class="bonus-content-achievement-category-header"><tr><td class="bonus-content-achievement-category-name">General</td><td class="bonus-content-achievement-category-count">[ACHIEVEMENT_COUNT 0 41000008]</td><tr></table>
+
+
+# Leaderboards 41000000 - 41000499
+
+41000013=Playing time
+41000014=Mission points
+41000015=Trading routes
+41000016=Overall ranking
+41000017=Tech Assistant attained
+41000018=Tech Scientist attained
+41000019=Tech Genius attained
+41000020=Tycoon Worker attained
+41000021=Tycoon Employee attained
+41000022=Tycoon Engineer attained
+41000023=Tycoon Executive attained
+41000024=Eco Worker attained
+41000025=Eco Employee attained
+41000026=Eco Engineer attained
+41000027=Eco Executive attained
+41000028=Keto defeated
+41000029=Thor Strindberg defeated
+41000030=Hector defeated
+41000031=[GUIDNAME 40000024] built
+41000032=[GUIDNAME 10217] built
+41000033=[GUIDNAME 10213] built
+41000034=Inhabitants settled
+
+
+# General 41000500 - 41000529
+
+41000500=Note: The contents available for selection here do not contain the features and content of the "ANNO 2070 - The Deep Sea" addon.
+41000501=Features and content from the "ANNO 2070 - The Deep Sea" addon are not included when loading savegames from ANNO 2070.
+41000502=You are in the addon "Anno 2070 - The Deep Sea". To start an endless game without the features and content of the addon, disable it under "Addon" in the game settings.
+
+
+# Buddylist -1 - -1
+
+
+
+# ChapterMap 41000530 - 41000554
+
+41000530=Campaign
+
+
+# CentralInterface 41001000 - 41001999
+
+
+
+# Infobar 41001000 - 41001099
+
+41001000=Dividends
+
+
+# ScreenText 41001100 - 41001199
+
+41001100=Requires [GUIDNAME 41001218]
+
+
+# TextTagParts 41001200 - 41001299
+
+
+
+# ResidentNames 41001200 - 41001209
+
+41001200=Genius
+41001201=Geniuses
+
+
+# BuildMenu 41001210 - 41001229
+
+41001210=Black Smoker required in Influence area
+41001211=Displays all available Metal converters
+41001212=Diverts Energy from one Island to other Islands with [GUIDNAME 40000001]s.
+41001213=Defend Underwater settlements on the sea surface.<br />[GUIDNAME 1206599]
+41001214=Long-term use may cause a Tsunami.
+41001217=Requires [GUIDNAME 41001218].
+41001218=Geothermal energy source
+41001219=Can be built underwater.
+
+
+# Items -1 - -1
+
+41001253=<p><rewardname>[GUIDNAME 41400000]</rewardname></p><p>[GUIDNAME 1206301]</p><rewardfoot>[GUIDNAME 1206290]</rewardfoot>
+
+
+# General -1 - -1
+
+41001252=Toll wares
+
+
+# ContextInfo -1 - -1
+
+41001242=Can only be activated during an active protest.
+41001243=Can be activated only on Islands with residual Pollution.
+
+
+# Buff Description -1 - -1
+
+41001240=. Provides complete
+
+
+# Upgrade Items -1 - -1
+
+
+
+# Attributes -1 - -1
+
+41001254=Improves all <b>[GUIDNAME 40000001]</b> in this sector.
+
+
+# Descriptions -1 - -1
+
+41001241=Provides <b>Residences</b> on all your Islands complete
+41001246=Reduces the cooldown after purchasing Shares.
+41001247=<icon type="autosize" guid="2600083"/> Cooldown:
+41001251=Improves all <b>Ornamental buildings</b>  in this sector.
+
+
+# Flavor Text Parts -1 - -1
+
+41001248=New, improved and 10 times as effective!
+
+
+# Action Items -1 - -1
+
+
+
+# Attributes -1 - -1
+
+41001231=<icon type="autosize" guid="2600224" /> Number of Islands:
+
+
+# Descriptions -1 - -1
+
+41001232=Uncovers a certain <b>number of Islands</b> in this sector. 
+41001233=Makes the digital visualization of the submerged Submarine invisible to enemies.
+41001234=Drops a <b>Naval mine</b> at the point where it is activated. The mine explodes when enemies are in its detection radius, damaging all Units in the area, both enemy and allied.
+41001236=Redirects <b>one Long-range missile once</b> fired at the Island, sending it back to its source.
+41001235=Ends all <b>Uprisings</ b> by an Islands population.
+41001237=Eliminates the negative environmental impact of <b>Ruins</ b> on an Island.
+41001238=Reveals any <b>Silent running</ b> Submarines in the area.
+41001239=Causes the <b>Unit to be escorted</b> to follow your Unit.
+41001249=Passive ability
+41001250=Uncovers <b>all Islands</b> in in this sector.
+
+
+# QuestCategories 41001230 - 41001239
+
+41001230=Convoy
+
+
+# Vehicles -1 - -1
+
+
+
+# Descriptions -1 - -1
+
+41001244=Sisyphus-class Submarines were designed to transport extremely large quantities of Goods under water. Also features the built-in "Silent running" function
+41001245=Allows Aircraft to land on the high seas for repair and refueling, although this then requires Fuel. Also repaires Vehicles in the area.
+
+
+# BuildMenu 41001300 - 41001399
+
+41001300=[GUIDNAME 40000004]
+41001301=[GUIDNAME 40000017]
+41001302=[GUIDNAME 40000019]
+41001303=[GUIDNAME 40000007]
+41001304=[GUIDNAME 40000009]
+41001305=[GUIDNAME 400000014]
+41001306=[GUIDNAME 40000010]
+41001307=[GUIDNAME 40000012]
+41001308=[GUIDNAME 40000016]
+41001309=[GUIDNAME 40000018]
+41001310=[GUIDNAME 40000013]
+41001311=[GUIDNAME 40000001]
+41001312=[GUIDNAME 40000024]
+41001384=[GUIDNAME 40000025]
+41001385=[GUIDNAME 10207]
+41001386=[GUIDNAME 10206]
+41001387=[GUIDNAME 10269]
+41001388=[GUIDNAME 10208]
+41001396=[GUIDNAME 40000108]
+41001397=[GUIDNAME 40000019]
+41001332=[GUIDNAME 40000169]
+41001333=[GUIDNAME 40000019]
+41001336=[GUIDNAME 40000013]
+41001337=[GUIDNAME 40000017]
+41001342=Underwater energy
+
+
+# ProductionChains -1 - -1
+
+41001380=[GUIDNAME 41200001]
+41001381=[GUIDNAME 41200000]
+41001382=[GUIDNAME 41200002]
+41001383=[GUIDNAME 41200003]
+41001389=[GUIDNAME 10239]
+41001390=Eco Executive Underwater production
+41001391=Tycoon Executive Underwater production
+41001392=Tech Assistant Underwater production
+41001393=Tech Scientist Underwater production
+41001394=Underwater Energy
+41001395=Underwater defense
+41001334=Tech Genius Underwater production
+41001335=Eco Executive / Tycoons Executive Underwater production
+41001339=Glass tunnel
+41001340=Park
+41001341=Hologram
+
+
+# Ornamentals -1 - -1
+
+41001399=[GUIDNAME 40000123]
+41001313=[GUIDNAME 40000124]
+41001314=[GUIDNAME 40000125]
+41001315=[GUIDNAME 40000126]
+41001316=[GUIDNAME 40000127]
+41001317=[GUIDNAME 40000128]
+41001318=[GUIDNAME 40000129]
+41001319=[GUIDNAME 40000130]
+41001320=[GUIDNAME 40000131]
+41001321=[GUIDNAME 40000132]
+41001322=[GUIDNAME 40000133]
+41001323=[GUIDNAME 40000134]
+41001324=[GUIDNAME 40000135]
+41001325=[GUIDNAME 40000136]
+41001326=[GUIDNAME 40000137]
+41001327=[GUIDNAME 40000138]
+41001328=[GUIDNAME 40000139]
+41001329=[GUIDNAME 40000140]
+41001330=[GUIDNAME 40000141]
+41001331=[GUIDNAME 40000142]
+41001338=[GUIDNAME 15]
+
+
+# Object menus 41002000 - 41002999
+
+41002137=There is not enough room on the airfield to build this vehicle.
+
+
+# Town center -1 - -1
+
+41002000=Energy transfer
+
+
+# Warehouse -1 - -1
+
+41002001=<p><Islandshare-headline>Shares</Islandshare-headline><br />Shares earn Dividends. A <b>60%</b> majority of Shares allows an Island to be taken over.</p><p>Shares in [ISLAND_NAME]: <b>[SHARES_PERCENTAGE]</b></p><p>Total Dividends: [ISLAND_DIVIDEND]</p>
+41002002=<p><Islandshare-headline>Share purchase</Islandshare-headline><br />Do you wish to buy the selected Shares in the Island of [ISLAND_NAME]?</p><p>Price: [SHARE_VALUE]</p>Projected Dividends: <font color="20D224">[SHARE_DIVIDENT]</font><br /><br />
+41002003=You can purchase new Shares in [SHARES_COOLDOWN].
+41002004=Shares
+41002005=Take over City
+41002006=<p>As you now own the majority of Shares, you can take over [ISLAND_NAME].</p><p>Preis:<br />[TOWN_VALUE]</p>
+41002112=Each Island Share generates a regular Dividend which is paid to your Balance. The amount of the Dividend depends on the current value of the Share.
+
+
+# Energy Transmitter -1 - -1
+
+41002010=Transfer
+41002011=Reception
+41002013=No Island
+41002109=Currently no Energy transfer active.<br /><br />To start an Energy transfer, select an Island on which an Energy transmitter is located and use the slider to set how much Energy you want to transfer from your surplus.
+41002110=Energy reception active.<br /><br />No Energy can be sent from this Transmitter while reception is active. To transmit Energy, disable all reception operations. <br />
+
+
+# Science -1 - -1
+
+
+
+# Academy -1 - -1
+
+41002015=Formulas
+41002016=Development progress
+41002017=Cancel development
+41002018=Develop
+41002019=Components required
+41002020=Overview
+41002021=Goods (Warehouse)
+41002022=Modules (Laboratory)
+41002023=Devs (Academy) / Prototypes (third parties)
+41002024=<b>Category:</ b> [SCIENCE_ITEM_CATEGORY]
+41002100=Credits / Licenses
+41002113=Formula not yet discovered
+41002114=Formulas can be discovered in the Academy using <b>Basic research</ b> or unlocked under <b>Bonus content</ b> in the <b>Profile</ b>.
+41002115=Special actions
+41002120=Basic research allows you to discover previously unknown Formulas in the area of [GUIDNAME] research. Once a new formula has been discovered, you can make the appropriate Item here in the Academy.<br /><br />Since lucrative patents arise during Basic research, Licenses are generated for the duration of the Basic research .
+
+
+# Categories -1 - -1
+
+
+
+# Main Categories -1 - -1
+
+41002026=<icon type="autosize" guid=2600204> [GUIDNAME 1420011]
+41002027=<icon type="autosize" guid=2600188> [GUIDNAME 1420014]
+41002028=<icon type="autosize" guid=2600068> [GUIDNAME 1420012]
+41002029=<icon type="autosize" guid=2600034> [GUIDNAME 1420015]
+41002030=<icon type="autosize" guid=2600198> [GUIDNAME 1420013]
+41002031=<icon type="autosize" guid=2504011> [GUIDNAME 1420010]
+41002032=<icon type="autosize" guid=2600078> [GUIDNAME 1420009]
+41002033=<icon type="autosize" guid=2600175> [GUIDNAME 1420016]
+
+
+# Item Categories -1 - -1
+
+
+
+# Research -1 - -1
+
+41002094=<icon type="autosize" guid=2600068><icon type="autosize" guid=2600078><icon type="autosize" guid=2504011> [GUIDNAME 1206110]
+41002095=<icon type="autosize" guid=2600198><icon type="autosize" guid=2600034> [GUIDNAME 1206127]
+41002096=<icon type="autosize" guid=2600175> [GUIDNAME 1420016]
+
+
+# Seeds -1 - -1
+
+41002034=<icon type="autosize" guid=2600025> [GUIDNAME 2600025]-[GUIDNAME 1206520]
+41002035=<icon type="autosize" guid=2600026> [GUIDNAME 2600026]-[GUIDNAME 1206520]
+41002036=<icon type="autosize" guid=2600027> [GUIDNAME 2600027]-[GUIDNAME 1206520]
+41002099=<icon type="autosize" guid=2503008> Resources
+
+
+# Production -1 - -1
+
+41002037=<icon type="autosize" guid=10261> [GUIDNAME 10261]
+41002038=<icon type="autosize" guid=10268> [GUIDNAME 10268]
+41002039=<icon type="autosize" guid=10024> [GUIDNAME 10024]
+41002040=<icon type="autosize" guid=10098> [GUIDNAME 10098]
+41002041=<icon type="autosize" guid=10054> [GUIDNAME 10054]
+41002042=<icon type="autosize" guid=10080> [GUIDNAME 10080]
+41002043=<icon type="autosize" guid=10200> [GUIDNAME 10200]
+41002044=<icon type="autosize" guid=10083> [GUIDNAME 10083]
+41002045=<icon type="autosize" guid=10153> [GUIDNAME 10153]
+41002046=<icon type="autosize" guid=10052> [GUIDNAME 10052]
+41002047=<icon type="autosize" guid=10161> [GUIDNAME 10161]
+41002048=<icon type="autosize" guid=10149> [GUIDNAME 10149]
+41002049=<icon type="autosize" guid=10075> [GUIDNAME 10075]
+
+
+# EcoBalance -1 - -1
+
+41002050=<icon type="autosize" guid=7102006> [GUIDNAME 7102006]
+41002051=<icon type="autosize" guid=7102007> [GUIDNAME 7102007]
+41002052=<icon type="autosize" guid=10193> [GUIDNAME 10193]
+41002053=<icon type="autosize" guid=10192> [GUIDNAME 10192]
+41002054=<icon type="autosize" guid=10061> [GUIDNAME 10061]
+41002055=<icon type="autosize" guid=10123> [GUIDNAME 10123]
+41002056=<icon type="autosize" guid=10170> [GUIDNAME 10170]
+41002057=<icon type="autosize" guid=10169> [GUIDNAME 10169]
+41002058=<icon type="autosize" guid=10267> [GUIDNAME 10267]
+
+
+# Energy -1 - -1
+
+41002059=<icon type="autosize" guid=10087> [GUIDNAME 10087]
+41002060=<icon type="autosize" guid=10029> [GUIDNAME 10029]
+41002061=<icon type="autosize" guid=10173> [GUIDNAME 10173]
+41002062=<icon type="autosize" guid=10082> [GUIDNAME 10082]
+41002063=<icon type="autosize" guid=10070> [GUIDNAME 10070]
+41002064=<icon type="autosize" guid=10025> [GUIDNAME 10025]
+41002065=<icon type="autosize" guid=10050> [GUIDNAME 10050]
+41002066=<icon type="autosize" guid=40000001> [GUIDNAME 40000001]
+41002067=<icon type="autosize" guid=40000004> [GUIDNAME 40000004]
+
+
+# Public -1 - -1
+
+41002068=<icon type="autosize" guid=2501002> [GUIDNAME 2501002]
+41002069=<icon type="autosize" guid=2501005> [GUIDNAME 2501005]
+41002070=<icon type="autosize" guid=2501006> [GUIDNAME 2501006]
+41002071=<icon type="autosize" guid=10077> [GUIDNAME 10077]
+
+
+# Special -1 - -1
+
+41002072=<icon type="autosize" guid=10035> [GUIDNAME 10035]
+41002073=<icon type="autosize" guid=10254> Defense turrets
+41002074=<icon type="autosize" guid=10130> [GUIDNAME 10130]
+41002075=<icon type="autosize" guid=10129> [GUIDNAME 10129]
+41002076=<icon type="autosize" guid=10128> [GUIDNAME 10128]
+41002092=<icon type="autosize" guid=7110000> [GUIDNAME 7110000]
+41002093=<icon type="autosize" guid=7110001> [GUIDNAME 7110001]
+41002116=<icon type="autosize" guid=2600034> [GUIDNAME 41002115]
+
+
+# Vehicles -1 - -1
+
+41002077=<icon type="autosize" guid=20023> [GUIDNAME 20023]
+41002078=<icon type="autosize" guid=20069> [GUIDNAME 20069]
+41002079=<icon type="autosize" guid=20117> [GUIDNAME 20117]
+41002080=<icon type="autosize" guid=20028> [GUIDNAME 20028]
+41002081=<icon type="autosize" guid=20067> [GUIDNAME 20067]
+41002082=<icon type="autosize" guid=20061> [GUIDNAME 20061]
+41002083=<icon type="autosize" guid=20068> [GUIDNAME 20068]
+41002084=<icon type="autosize" guid=20000> [GUIDNAME 20000]
+41002085=<icon type="autosize" guid=20015> [GUIDNAME 20015]
+41002086=<icon type="autosize" guid=20014> [GUIDNAME 20014]
+41002087=<icon type="autosize" guid=20016> [GUIDNAME 20016]
+41002088=<icon type="autosize" guid=20027> [GUIDNAME 20027]
+41002089=<icon type="autosize" guid=41200020> [GUIDNAME 2600219]
+41002090=<icon type="autosize" guid=40000109> [GUIDNAME 40000109]
+41002091=<icon type="autosize" guid=40000110> [GUIDNAME 40000110]
+41002097=<icon type="autosize" guid=2600175> [GUIDNAME 41002115]
+41002133=<icon type="autosize" guid=7210000> [GUIDNAME 7210000]
+41002134=<icon type="autosize" guid=7210001> [GUIDNAME 7210001]
+
+
+# Academy Effect Texts -1 - -1
+
+41002101=<icon type="autosize" guid=2600204> Discovers Formulas<br />[ITEM_EFFECT]
+41002102=<icon type="autosize" guid=2502017> Attracts Animals.
+41002103=<icon type="autosize" guid=2502017> Attracts Dolphins.
+41002104=<icon type="autosize" guid=2502017> Explodes on approach
+41002105=<icon type="autosize" guid=2502017> Reveals Submarines
+41002106=<icon type="autosize" guid=2502017> Cloaks Submarines
+41002135=<icon type="autosize" guid=2502017> Removes negative effects on the Ecobalance
+41002136=<icon type="autosize" guid=2502017> Reflects missile attacks
+41002119=<icon type="autosize" guid=2502017> Ends Population protests.
+
+
+# Monuments 41002000 - 41002024
+
+
+
+# InfolayerTooltips 41003000 - 41003999
+
+
+
+# Production -1 - -1
+
+
+
+# Quests -1 - -1
+
+
+
+# Misc 41003000 - 41003009
+
+41003005=Landing maneuver
+
+
+# Fullscreen Menus 41004000 - 41004999
+
+
+
+# Trading routes -1 - -1
+
+
+
+# Mission Ranking -1 - -1
+
+41004004=Leaderboard
+
+
+# Text TAGs 41005000 - 41005999
+
+41005000=[ACADEMY2_ITEM_EFFECT]
+
+
+# Faction Rewards 41006000 - 41006999
+
+
+
+# Tycoon Reward 41006000 - 41006099
+
+
+
+# InfotextAchieved 41006000 - 41006019
+
+41006000=<p><rewardheader>[GUIDNAME 41006302]</rewardheader></p> <p>[GUIDNAME 1206291]</p> <p><rewardname>[GUIDNAME 1115051] [GUIDNAME 40000118]</rewardname><br/ >[GUIDNAME 41001241]<br/ ><icon type="autosize" guid="2504005" /> Protection against [GUIDNAME 1112969]</p><rewardfoot>[GUIDNAME 1206289]</rewardfoot>
+41006001=<p><rewardheader>[GUIDNAME 41006300]</rewardheader></p> <p>[GUIDNAME 1206291]</p> <p><rewardname>[GUIDNAME 40000154]</rewardname><br/ >[GUIDNAME 41006311]</p><rewardfoot>[GUIDNAME 41006341]</rewardfoot>
+41006002=<p><rewardheader>[GUIDNAME 41006301]</rewardheader></p> <p>[GUIDNAME 1206291]</p> <p><rewardname>[GUIDNAME 40000161]</rewardname><br/ >[GUIDNAME 41006314]</p><rewardfoot>[GUIDNAME 1206293]</rewardfoot>
+
+
+# InfotextPreview 41006020 - 41006039
+
+41006020=<p><rewardheader>[GUIDNAME 41006302]</rewardheader></p> <p>[GUIDNAME 1206292]</p> <p><rewardname>[GUIDNAME 1115051] [GUIDNAME 40000118]</rewardname><br/ >[GUIDNAME 41001241]<br/ ><icon type="autosize" guid="2504005" /> Protection against [GUIDNAME 1112969]</p><rewardfoot></rewardfoot>
+41006021=<p><rewardheader>[GUIDNAME 41006300]</rewardheader></p> <p>[GUIDNAME 1206292]</p> <p><rewardname>[GUIDNAME 40000154]</rewardname><br/ >[GUIDNAME 41006311]</p><rewardfoot></rewardfoot>
+41006022=<p><rewardheader>[GUIDNAME 41006301]</rewardheader></p> <p>[GUIDNAME 1206292]</p> <p><rewardname>[GUIDNAME 40000161]</rewardname><br/ >[GUIDNAME 41006314]</p><rewardfoot></rewardfoot>
+
+
+# Tooltips 41006040 - 41006059
+
+
+
+# Eco Reward 41006100 - 41006199
+
+
+
+# InfotextAchieved 41006100 - 41006119
+
+41006100=<p><rewardheader>[GUIDNAME 41006305]</rewardheader></p> <p>[GUIDNAME 1206291]</p> <p><rewardname>[GUIDNAME 1115051] [GUIDNAME 40000117]</rewardname><br/ >[GUIDNAME 41001241]<br/ ><icon type="autosize" guid="2504004" /> Protection against [GUIDNAME 1112806]</p><rewardfoot>[GUIDNAME 1206289]</rewardfoot>
+41006101=<p><rewardheader>[GUIDNAME 41006303]</rewardheader></p> <p>[GUIDNAME 1206291]</p> <p><rewardname>[GUIDNAME 40000153]</rewardname><br/ >[GUIDNAME 41006310]</p><rewardfoot>[GUIDNAME 41006340]</rewardfoot>
+41006102=<p><rewardheader>[GUIDNAME 41006304]</rewardheader></p> <p>[GUIDNAME 1206291]</p> <p><rewardname>[GUIDNAME 40000160]</rewardname><br/ >[GUIDNAME 41006313]</p><rewardfoot>[GUIDNAME 1206293]</rewardfoot>
+
+
+# InfotextPreview 41006120 - 41006139
+
+41006120=<p><rewardheader>[GUIDNAME 41006305]</rewardheader></p> <p>[GUIDNAME 1206292]</p> <p><rewardname>[GUIDNAME 1115051] [GUIDNAME 40000117]</rewardname><br/ >[GUIDNAME 41001241]<br/ ><icon type="autosize" guid="2504004" /> Protection against [GUIDNAME 1112806]</p><rewardfoot></rewardfoot>
+41006121=<p><rewardheader>[GUIDNAME 41006303]</rewardheader></p> <p>[GUIDNAME 1206292]</p> <p><rewardname>[GUIDNAME 40000153]</rewardname><br/ >[GUIDNAME 41006310]</p><rewardfoot></rewardfoot>
+41006122=<p><rewardheader>[GUIDNAME 41006304]</rewardheader></p> <p>[GUIDNAME 1206292]</p> <p><rewardname>[GUIDNAME 40000160]</rewardname><br/ >[GUIDNAME 41006313]</p><rewardfoot></rewardfoot>
+
+
+# Tooltips 41006140 - 41006159
+
+
+
+# Tech Reward 41006200 - 41006299
+
+
+
+# InfotextAchieved 41006200 - 41006219
+
+41006200=<p><rewardheader>[GUIDNAME 41006308]</rewardheader></p> <p>[GUIDNAME 1206291]</p> <p><rewardname>[GUIDNAME 1115051] [GUIDNAME 40000119]</rewardname><br/ >[GUIDNAME 41001241]<br/ ><icon type="autosize" guid="2504003" /> Protection against [GUIDNAME 1112807]</p><rewardfoot>[GUIDNAME 1206289]</rewardfoot>
+41006201=<p><rewardheader>[GUIDNAME 41006306]</rewardheader></p> <p>[GUIDNAME 1206291]</p> <p><rewardname>[GUIDNAME 40000155]</rewardname><br/ >[GUIDNAME 41006312]</p><rewardfoot>[GUIDNAME 41006342]</rewardfoot>
+41006202=<p><rewardheader>[GUIDNAME 41006307]</rewardheader></p> <p>[GUIDNAME 1206291]</p> <p><rewardname>[GUIDNAME 40000162]</rewardname><br/ >[GUIDNAME 41006315]</p><rewardfoot>[GUIDNAME 1206293]</rewardfoot>
+
+
+# InfotextPreview 41006220 - 41006239
+
+41006220=<p><rewardheader>[GUIDNAME 41006308]</rewardheader></p> <p>[GUIDNAME 1206292]</p> <p><rewardname>[GUIDNAME 1115051] [GUIDNAME 40000119]</rewardname><br/ >[GUIDNAME 41001241]<br/ ><icon type="autosize" guid="2504003" /> Protection against [GUIDNAME 1112807]</p><rewardfoot></rewardfoot>
+41006221=<p><rewardheader>[GUIDNAME 41006306]</rewardheader></p> <p>[GUIDNAME 1206292]</p> <p><rewardname>[GUIDNAME 40000155]</rewardname><br/ >[GUIDNAME 41006312]</p><rewardfoot></rewardfoot>
+41006222=<p><rewardheader>[GUIDNAME 41006307]</rewardheader></p> <p>[GUIDNAME 1206292]</p> <p><rewardname>[GUIDNAME 40000162]</rewardname><br/ >[GUIDNAME 41006315]</p><rewardfoot></rewardfoot>
+
+
+# Tooltips 41006240 - 41006259
+
+
+
+# TextTags Rewards 41006300 - 41006599
+
+
+
+# New CareerPath 41006300 - 41006309
+
+41006300=Board spokesman
+41006301=Special Representative of the Board
+41006302=Chairman of the Board
+41006303=Council spokesman
+41006304=Special Representative of the Council
+41006305=Council President
+41006306=Science Council spokesman
+41006307=Special Representative of the Science Council
+41006308=Chairman of the Science Council
+
+
+# ItemEffectDescription 41006310 - 41006339
+
+41006310=[GUIDNAME 2330002] grants you a permanent discount on Items in all sectors.
+41006311=[GUIDNAME 2330003] grants you a permanent discount on Items in all sectors.
+41006312=[GUIDNAME 2330004] grants you a permanent discount on Items in all sectors.
+41006313=Allows you to order <icon type="autosize" guid="2500000" /> [GUIDNAME 2500000] per Express delivery from your Ark
+41006314=Allows you to order <icon type="autosize" guid="2500016" /> [GUIDNAME 2500016] per Express delivery from your Ark
+41006315=Allows you to order <icon type="autosize" guid="2500017" /> [GUIDNAME 2500017] per Express delivery from your Ark
+
+
+# Item Effect Location 41006340 - 41006369
+
+41006340=Valid for purchases made at [GUIDNAME 2330002]'s Ark
+41006341=Valid for purchases made at  [GUIDNAME 2330003]'s Ark
+41006342=Valid for purchases made at  [GUIDNAME 2330004]'s Ark
+
+
+# AssetGroup 41006600 - 41006649
+
+41006600=<p><rewardname>[GUIDNAME 40000154]</rewardname></p><p>[GUIDNAME 41006311]</p><rewardfoot>[GUIDNAME 41006341]</rewardfoot>
+41006601=<p><rewardname>[GUIDNAME 40000153]</rewardname></p><p>[GUIDNAME 41006310]</p><rewardfoot>[GUIDNAME 41006340]</rewardfoot>
+41006602=<p><rewardname>[GUIDNAME 40000155]</rewardname></p><p>[GUIDNAME 41006310]</p><rewardfoot>[GUIDNAME 41006342]</rewardfoot>
+41006603=<p><rewardname>[GUIDNAME 40000117]</rewardname></p><p>[GUIDNAME 41001241]<br/ >[ITEM_EFFECT 40000117]</p><rewardfoot>[GUIDNAME 1206289]</rewardfoot>
+41006604=<p><rewardname>[GUIDNAME 40000118]</rewardname></p><p>[GUIDNAME 41001241]<br/ >[ITEM_EFFECT 40000118]</p><rewardfoot>[GUIDNAME 1206289]</rewardfoot>
+41006605=<p><rewardname>[GUIDNAME 40000119]</rewardname></p><p>[GUIDNAME 41001241]<br/ >[ITEM_EFFECT 40000119]</p><rewardfoot>[GUIDNAME 1206289]</rewardfoot>
+41006606=<p><rewardname>[GUIDNAME 40000099]</rewardname></p><p>Improves all [GUIDNAME 7110001] type Buildings in this sector.<br/ >[GUIDNAME 1206511]<br>[GUIDNAME 7111170]</p><rewardfoot>[GUIDNAME 1206289]</rewardfoot>
+
+
+# MailSystem 41007000 - 41007999
+
+
+
+# FactionReputation Mails 41007000 - 41007299
+
+
+
+# Ecos -1 - -1
+
+41007000=[GUIDNAME 1005807]
+41007001=[GUIDNAME 1005807]
+41007002=[GUIDNAME 1005807]
+41007009=<mailtext><p>Greetings and congratulations, [PLAYER NAME]!</p><p><p>The Eden Initiative owes you a huge vote of thanks, and would like to continue to foster your talent! Because of your extraordinary commitment to the future of our planet, Seamus Green has personally chosen you to coordinate the Eden Initiatives next moves within the Council.<br/>In order to adequately address these challenges, we are providing you the latest invention from the Green Tech Laboratories . Although untested, we have great hopes that it will be of help to all mankind. I myself am quite certain that you will use it wisely.</p><table class="reputation-table"><tr><td class="reputation-headline">[GUIDNAME 1005807]</td></tr><tr><td><table><tr><td class="reputation-image"><img src=[FACTION_REPUTATION_REWARD_PICTURE [faction] [points]] /></td><td class="reputation-text">[FACTION_REPUTATION_REWARD_DESCRIPTION [faction] [points]]</td></tr></table></td></tr></table><p>[GUIDNAME 1005764]</p></mailtext>
+
+
+# Tycoons -1 - -1
+
+41007003=[GUIDNAME 1005803]
+41007004=[GUIDNAME 1005803]
+41007005=[GUIDNAME 1005803]
+41007010=<mailtext><p>My congratulations, [PLAYER NAME]!</p><p><p>Your excellent work and unconditional loyalty have not gone unnoticed. Skylar Banes has personally asked me to award you the newly created position of Chairman of the Board. You will now act as a liaison between her and the Board.<br/>As a sign of her confidence, she grants you access to one of Global Trusts most closely guarded developments. Use it wisely, and for the benefit of the Company.</p><table class="reputation-table"><tr><td class="reputation-headline">[GUIDNAME 1005807]</td></tr><tr><td><table><tr><td class="reputation-image"><img src=[FACTION_REPUTATION_REWARD_PICTURE [faction] [points]] /></td><td class="reputation-text">[FACTION_REPUTATION_REWARD_DESCRIPTION [faction] [points]]</td></tr></table></td></tr></table><p>[GUIDNAME 1005764]</p></mailtext>
+
+
+# Techs -1 - -1
+
+41007006=[GUIDNAME 1005811]
+41007007=[GUIDNAME 1005811]
+41007008=[GUIDNAME 1005811]
+41007011=<mailtext><p>Very impressive performance, [PLAYER NAME]!</p><p><p>The tremendous upheavals of the last while have made it necessary to adapt the Council's structure to the new realities. F.A.T.H.E.R.'s analysis has shown that no one other than you fits the profile of a Chairman of the Science Council. I have already transmitted the corresponding protocols. <br/> Along with your new position comes access to S.A.A.T.s most revolutionary project ever. It has not yet been tested in practice, so we rely on your extensive expertise. Science will thank you!</p><table class="reputation-table"><tr><td class="reputation-headline">[GUIDNAME 1005807]</td></tr><tr><td><table><tr><td class="reputation-image"><img src=[FACTION_REPUTATION_REWARD_PICTURE [faction] [points]] /></td><td class="reputation-text">[FACTION_REPUTATION_REWARD_DESCRIPTION [faction] [points]]</td></tr></table></td></tr></table><p>[GUIDNAME 1005764]</p></mailtext>
+
+
+# Starttips AddOn 41008000 - 41008499
+
+41008000=Welcome to "ANNO 2070 - The Deep Sea"! The events surrounding the Ebashi Trench have led to profound changes.
+41008001=The [GUIDNAME 40000004] generates Energy from the heat of the earth's interior. Therefore, it can only be built in volcanic fissures under water.
+41008002=A [GUIDNAME 40000004] generates large amounts of cheap Energy under water, although prolonged use can cause Tsunamis.
+41008003=The Tsunami is a devastating wave that not only destroys Ships in its path, but also floods entire sections of Islands, making those areas temporarily unsuitable for construction.
+41008004=High mountains can hold back a Tsunami. So build in the lee of mountain ranges if you expect frequent floods.
+41008006=As soon as one party in the sector unlocks access to the Financial market, Island Shares can then be purchased at the Warehouse.
+41008007=If you have a majority of Shares in an enemy Island, you can take it over without Military conflict. But beware: Some parties react very badly to that.
+41008008=For each Island Share purchased, a Dividend based on the current Share price will be paid to your Balance.
+41008010=As the price of an Island Share increases as the Settlement develops, buying Shares early on is a good investment.
+41008011=Some wealthy opponents will try to take over your Island by buying Ahares in it. To prevent that kind of hostile takeover, you should purchase as many Shares in your own Island as possible.
+41008012=An Energy transmitter can transfer excess Energy from one Island to another.
+41008014=If an Island is being supplied by an Energy transmitter it does not need its own Power plants, allowing it to avoid the negative consequences associated with Energy production.
+41008015=The new and improved S.A.A.T Metal converter no longer has to wait until a Black Smoker goes extinct, but it does require a corresponding Deposit nearby.
+41008016=The new [GUIDNAME 40000109] class Trade submarine can service Underwater Trading routes, thus avoiding enemy surface Units.
+41008017=With the advent of Geniuses in our midst, the Academy can now research singularly high-yield methods of maximizing an Islands resources.
+41008018=S.A.A.T. Geniuses have found a way of replicating Sokow Transnationals Oil-drilling technology. The appropriate Blueprints can be drawn up in an Academy .
+41008019=A Tech [GUIDNAME 40000024] is not only highly representative, but also allows for Island-wide Building construction, regardless of Goods depots or Towncenters.
+41008020=Th?"[GUIDNAME 40000158]" Item can be used to hide Underwater units from enemy Units on the surface.
+41008021=Cloaked Underwater units can be detected using the "[GUIDNAME 40000121]" Item.
+41008022=Port facilities can be protected effectively by placing a [GUIDNAME 40000120] in front of your Warehouse. Where your Ships can pass safely, any enemy Ships will trigger a devastating explosion.
+41008023=In the wake of the events surrounding the Ebashi Trench, the third parties have enhanced their ranges with a few very useful Items.
+
+
+# News 41100000 - 41199999
+#--------------------------
+
+
+
+# Text 41100000 - 41100999
+
+
+
+# Shares 41100000 - 41100009
+
+41100000=<div class="newsheader"><div><headercategory>[NEWS_CATEGORY]</headercategory></div><div class="newsname">Hostile takeover!</div></div><div class="newsbody">[MSGQUEUE_PLAYERNAME] has taken over [MSGQUEUE_CITYNAME].</div>
+41100001=<div class="newsheader"><div><headercategory>[NEWS_CATEGORY]</headercategory></div><div class="newsname">Share lost!</div></div><div class="newsbody">[PLAYERNAME2] has acquired one of your Shares in [MSGQUEUE_CITYNAME].</div>
+41100002=<div class="newsheader"><div><headercategory>[NEWS_CATEGORY]</headercategory></div><div class="newsname">Unowned Share acquired</div></div><div class="newsbody">[PLAYERNAME2] has acquired one unowned Share in [MSGQUEUE_CITYNAME].</div>
+41100003=<div class="newsheader"><div><headercategory>[NEWS_CATEGORY]</headercategory></div><div class="newsname">Hostile Share majority!</div></div><div class="newsbody">[PLAYERNAME2] has acquired the majority of Shares in [MSGQUEUE_CITYNAME].</div>
+41100004=<div class="newsheader"><div><headercategory>[NEWS_CATEGORY]</headercategory></div><div class="newsname">Share acquired</div></div><div class="newsbody">[PLAYERNAME2] has taken one of [MSGQUEUE_TREATYPARTNER]'s Shares in [MSGQUEUE_CITYNAME].</div>
+41100007=<div class="newsheader"><div><headercategory>[NEWS_CATEGORY]</headercategory></div><div class="newsname">Unowned Share lost</div></div><div class="newsbody">[PLAYERNAME2] has acquired one of the unowned Shares in your Settlement of [MSGQUEUE_CITYNAME].</div>
+41100008=<div class="newsheader"><div><headercategory>[NEWS_CATEGORY]</headercategory></div><div class="newsname">Successful takeover</div></div><div class="newsbody">You have taken over [MSGQUEUE_CITYNAME].</div>
+41100009=<div class="newsheader"><div><headercategory>[NEWS_CATEGORY]</headercategory></div><div class="newsname">Majority of Shares</div></div><div class="newsbody">[PLAYERNAME2] has acquired the majority of the Shares in [MSGQUEUE_CITYNAME].</div>
+
+
+# Population -1 - -1
+
+41100005=<div class="newsheader"><div><headercategory>[NEWS_CATEGORY]</headercategory></div><div class="newsname">Geniuses</div></div><div class="newsbody">New Population group detected in: [MSGQUEUE_CITYNAME]</div>
+
+
+# Disaster -1 - -1
+
+41100006=<div class="newsheader"><div><headercategory>[NEWS_CATEGORY]</headercategory></div><div class="newsname">Tsunami sighting!</div></div><div class="newsbody">A Tsunami threatens Islands in the sector.</div>
+41100011=<div class="newsheader"><div><headercategory>[NEWS_CATEGORY]</headercategory></div><div class="newsname">Tsunami warning!</div></div><div class="newsbody">The sensors are registering seismic activity.</div>
+
+
+# Category -1 - -1
+
+41100010=Island Shares
+
+
+# Items 41100010 - 41100049
+
+41100012=<div class="newsheader"><div><headercategory>[NEWS_CATEGORY]</headercategory></div><div class="newsname">Missile successfully reflected!</div></div><div class="newsbody">The rocket shield on [MSGQUEUE_CITYNAME] has sucessfully reflected [PLAYERNAME2]'s rocket and set its course back to where it came from.</div>
+41100013=<div class="newsheader"><div><headercategory>[NEWS_CATEGORY]</headercategory></div><div class="newsname">Warning! Missile reflected</div></div><div class="newsbody">The Missile has been reflected from [PLAYERNAME2]'s Missile shield and is approaching [MSGQUEUE_CITYNAME].</div>
+41100014=<div class="newsheader"><div><headercategory>[NEWS_CATEGORY]</headercategory></div><div class="newsname">Ruine demolished sucessfully.</div></div><div class="newsbody">The negative environmental effects on [MSGQUEUE_CITYNAME] have been successfully eliminated.</div>
+41100015=<div class="newsheader"><div><headercategory>[NEWS_CATEGORY]</headercategory></div><div class="newsname">Uprising stopped!</div></div><div class="newsbody">The uprising in [MSGQUEUE_CITYNAME] was successfully stopped.</div>
+41100021=<div class="newsheader"><div><headercategory>[NEWS_CATEGORY]</headercategory></div><div class="newsname">Warning! Missile reflected</div></div><div class="newsbody">The Missile has been reflected from [PLAYERNAME2]'s Missile shield and is approaching [MSGQUEUE_CITYNAME].</div>
+
+
+# IngameFeedback -1 - -1
+
+41100016=Tech03_Talk_Balanced
+41100017=Tech03_Talk_Angry
+41100018=Tech03_Talk_Euphoric
+41100019=Tech03_Talk_Happy
+41100020=Tech03_Talk_Unhappy
+
+
+# Icons 41200000 - 41299999
+#---------------------------
+
+
+
+# Goods -1 - -1
+
+41200000=Immunity drugs
+41200001=Laboratory instruments
+41200002=Neuroimplants
+41200003=Bionic suits
+41200004=Enzymes
+41200005=Platinum
+41200006=Sponges
+41200007=Lithium
+41200008=Electrolyte cells
+41200009=Exoskeletons
+41200015=Coral
+
+
+# Ressources -1 - -1
+
+41200010=Platinum deposits
+
+
+# Fertilities -1 - -1
+
+41200011=Sponge cultures
+
+
+# Events -1 - -1
+
+41200012=<icon type="autosize" guid=2600126>  [GUIDNAME 40000153]
+41200013=<icon type="autosize" guid=2600127> [GUIDNAME 40000154]
+41200014=<icon type="autosize" guid=2600128> [GUIDNAME 40000155]
+
+
+# Infolayer 41200000 - 41200019
+
+41200016=Landing
+
+
+# Misc 41200020 - 41200029
+
+41200020=Arche
+
+
+# Residents and Feedback 41300000 - 41399999
+#--------------------------------------------
+
+
+
+# Tech Genius ADDON 41300000 - 41309999
+
+
+
+# Quest_Offered 41300000 - 41300099
+
+41300000=I'm not used to asking for help. This is an exception!
+41300001=I admit it: I need your help. Just don't make a big thing out of it.
+41300002=No matter how often I do the calculations, it's obvious this just won't work without you!
+41300003=Even a certified genius such as I needs help now and then.
+41300004=I ask you to treat my request for assistance in the strictest confidence.
+
+
+# Quest_Reminder 41300100 - 41300199
+
+41300100=Inasmuch as you unfortunately lack a neurally integrated memory protocol, I find myself forced to remind you of the assignment.
+41300101=I shall take the liberty of reminding you periodically about the promised support.
+
+
+# Quest_Invitation_Started 41300200 - 41300299
+
+41300200=Already finished? Out of sheer curiosity: How much Biotin did you require to perform at this level?
+41300201=How does it look? Were you successful?
+41300202=Assignment completed? Good. Now I can work in peace.
+
+
+# Quest_Failed_or_Invitation_Cancelled 41300300 - 41300399
+
+41300300=Fortunately I made enough allowance for the risk of your failure.
+41300301=Faster, more powerful ... you should think about upgrading your organism.
+41300302=You probably simply cannot do any better ...
+
+
+# Quest_Finished 41300400 - 41300499
+
+41300400=Your performance is surprising!
+41300401=Good. Then I shall continue my work.
+41300402=Amazingly efficient for an unoptimized organism.
+41300403=An implant equal to your talent for improvisation has not yet been developed. 
+41300404=If I were capable of the requisite empathy, I would be grateful.
+
+
+# Residents_Talk_Angry 41300500 - 41300599
+
+41300500=Be glad. The neuro-optimization made me incapable of fits of rage.
+41300501=What use is it to be a genius, when one is locked up here with you?
+41300502=Well, isn't that just great! My neural implants mean that I experience this city's decay much more intensely than any normal human being!
+41300503=This desolate place is turning my thoughts into nothing more than useless Biotin mush.
+41300504=Being with you in this place is ... unbearable!
+
+
+# Residents_Talk_Unhappy 41300600 - 41300699
+
+41300600=I search for an intellectual challenge, and find... you.
+41300601=What good is neuro-optimization when one is mired in the mediocrity?
+41300602=If things here carry on the way they have, I will have to have my memories of this place neurally blocked.
+41300603=Stupidity is the worst torture a genius could endure.
+41300604=According to my calculations, this City is already at its lowest ebb. On the other hand, there's always more room at the bottom!
+
+
+# Residents_Talk_Balanced 41300700 - 41300799
+
+41300700=The flavor quality of your Biotin compounds offers room for improvement.
+41300701=I could work much more effectively if I did not have to worry about so many everyday things!
+41300702=Rely on neuro-optimization. You will see how everyones' performance increases after the implant.
+41300703=I am a certified genius. And you?
+41300704=Invest in me! I am your future!
+
+
+# Residents_Talk_Happy 41300800 - 41300899
+
+41300800=Not now! I have work to do! Much work!
+41300801=Thanks to the neuro-optimization my need for sleep has decreased by 65%!
+41300802=I have been working together with standard humans even better since the last software update!
+41300803=I am most satisfied. But there is still room for improvement.
+41300804=I just allowed myself an extra portion of Biotin. I felt like it.
+
+
+# Residents_Talk_Euphoric 41300900 - 41300999
+
+41300900=Crazy! The endorphin surges in my cerebrum temporarily paralyze all of the hardware!
+41300901=So many projects! And all at the same time! Perfect!
+41300902=To be an optimized mind in the optimal environment! Simply wonderful!
+41300903=The current state of affairs could be accurately described as perfect!
+41300904=Euphoria. Feelings of happiness. Is it the implants, or is this your work?
+
+
+# Residents_Channel_Reaction 41301000 - 41301099
+
+41301000=I will just play the Audiologs at four times normal speed, as otherwise it would take too long.
+41301001=The latest news is certainly of interest, even to a genius such as myself.
+41301002=I often let "Converging technologies of tomorrow" run in the background to relax while working.
+41301003=The leading media want to interview me next week. Interpersonal communication, a complete waste of time!
+41301004=Go ahead and talk. The message processing will be done simultaneously.
+
+
+# Residents_Welcome_Friendly 41301100 - 41301199
+
+41301100=I register your prescence.
+41301101=There you are.
+41301102=Hello.
+41301103=Greetings.
+41301104=Speak.
+41301105=I perceive you now. 
+41301106=Your presence cannot be overlooked.
+41301107=It would seem to be useless to ignore you.
+
+
+# Residents_Welcome_Angry 41301200 - 41301299
+
+41301200=Leave the area immediately.
+41301201=I will now ignore you.
+41301202=Communicating with you is a waste of time.
+41301203=You are of no interest to me. 
+41301204=You are speaking. I am ignoring.
+41301205=Do not bother me.
+41301206=You are superfluous.
+41301207=Go!
+
+
+# Residents_Affirmation 41301300 - 41301399
+
+41301300=I would evaluate that as positive.
+41301301=Gratifying.
+41301302=Almost perfect.
+41301303=Worth supporting.
+41301304=That is to be welcomed.
+
+
+# Residents_Rejection 41301400 - 41301499
+
+41301400=Simply wrong.
+41301401=A grave mistake.
+41301402=Between unpleasant and annoying.
+41301403=I refuse.
+41301404=A mistake at best.
+
+
+# Residents_Positive Reaction 41301500 - 41301599
+
+41301500=I applaud your decision.
+41301501=Your acts are consistent and correct.
+41301502=I support your actions.
+41301503=My internal analysis supports your approach.
+41301504=There is no alternative to your course of action.
+
+
+# Residents_Negative Reaction 41301600 - 41301699
+
+41301600=You have just made a grave error.
+41301601=Your course of action is simply wrong.
+41301602=It appears to me that your neural network is somewhat underdeveloped.
+41301603=Your judgment is severely restricted.
+41301604=You are obviously limited in your cognitive abilities.
+
+
+# Residents_Military Positive 41301700 - 41301799
+
+41301700=My analyses show the need for military intervention.
+41301701=In rare cases, even geniuses can require the de facto power brute force offers.
+41301702=In this case, there was no alternative to military intervention.
+41301703=The logical conclusion is that this situation will result in a declaration of war.
+41301704=The circumstances required exercising the military option.
+
+
+# Residents_Military Negative 41301800 - 41301899
+
+41301800=You rely on military strength whenever you run out of arguments.
+41301801=Just you keep taking your refuge in simple military activism.
+41301802=Your concept of military effectiveness is positively antiquated.
+41301803=Your feeble mind is more terrifying than your entire arsenal.
+41301804=Your military operations won't get you far.
+
+
+# Residents_DiplomacyAction Started 41301900 - 41301999
+
+41301900=We have a deal.
+41301901=The agreement is effective immediately.
+41301902=I agree with your suggestion.
+41301903=I support your cause.
+
+
+# Residents_DiplomarcyAction Started War 41302000 - 41302099
+
+41302000=Sometimes war is the only way out.
+41302001=War. I have simulated this emergency so many times.
+41302002=You will see that war simply drives a genius to new heights.
+41302003=War strains my patience. I won't be able to take too much time for you.
+
+
+# Residents_DiplomacyAction Finished 41302100 - 41302199
+
+41302100=The time is up, the agreement is no longer valid.
+41302101=Time has run out, so the contract no longer applies.
+41302102=Our agreement ends here.
+41302103=This is where our arrangement comes to an end.
+
+
+# Residents_DiplomacyAction Failed 41302200 - 41302299
+
+41302200=I'm not having anything to do with that.
+41302201=I am not going to do you that favor.
+41302202=You can forget that.
+41302203=Your demand is an insult to my intelligence.
+41302204=The answer is: No! Did you really expect anything else?
+
+
+# Residents_DiplomacyAction Invitation 41302300 - 41302399
+
+41302300=Quite frankly: Diplomacy is not my forte.
+41302301=Diplomatic skills? Yes, well, up until now they weren't necessary.
+41302302=Specify your concerns.
+41302303=I am trying to conceal my impatience. Hopefully successfully.
+41302304=No time for niceties. Cards on the table.
+
+
+# Residents_Status_Quest_Offered 41302400 - 41302499
+
+41302400=Meet my demands without hesitation and matters will not become... extreme.
+41302401=Surely there is no need to show you the consequences of any opposition.
+41302402=You will accept my demands or live with the consequences.
+41302403=I hope we can avoid any escalation. It's up to you.
+41302404=I rely on your common sense and foresight in fulfilling this ultimatum.
+
+
+# Residents_Disaster_Quest_Offered 41302500 - 41302599
+
+41302500=Stop this disaster. Now.
+41302501=Correct this atrocious state of affairs!
+41302502=You must end this exceptional situation. Quickly.
+41302503=This disaster must be halted immediately.
+41302504=It is up to you to contain this disaster.
+
+
+# Names 41400000 - 41499999
+#---------------------------
+
+
+
+# Profiles -1 - -1
+
+
+
+# TP long name -1 - -1
+
+41400000=Genius Egon
+
+
+# TP short name -1 - -1
+
+41400001=Egon
+
+
+# Quests 41500000 - 41599999
+#----------------------------
+
+
+
+# Helpermails 41500000 - 41500999
+
+
+
+# Helperquest Energytransmitter -1 - -1
+
+41500000=The Energy transmitter
+41500001=[GUIDNAME 41500002]<br />[GUIDNAME 41500003]<br />[GUIDNAME 41500004]<br />[GUIDNAME 41500005]<br />
+41500002=<table><tr><td><img src="data/graphics/ui/datalog/054a.jpg" /></td><td><table><tr><td><helperquestmailtopic><helperquestmailtopictext>The Energy transmitter's two functions</helperquestmailtopictext></helperquestmailtopic></td></tr><tr><td><helperquestmailtext>In order to build an Energy transmitter, you need a new Tech civilization level. You must also note that you can run only one of the two functions at any given time.</helperquestmailtext><ul class="helperquestmaillist"></ul></td></tr></table></td></tr></table>
+41500003=<table><tr><td><img src="data/graphics/ui/datalog/052b.jpg" /></td><td><table><tr><td><helperquestmailtopic><helperquestmailtopictext>Reception</helperquestmailtopictext></helperquestmailtopic></td></tr><tr><td><helperquestmailtext>The Energy transmitter allows you to absorb Energy from another Transmitter and thus add it to your overall Energy balance. This function has no additional cost to you.</helperquestmailtext><ul class="helperquestmaillist"></ul></td></tr></table></td></tr></table>
+41500004=<table><tr><td><img src="data/graphics/ui/datalog/052c.jpg" /></td><td><table><tr><td><helperquestmailtopic><helperquestmailtopictext>Transmission</helperquestmailtopictext></helperquestmailtopic></td></tr><tr><td><helperquestmailtext>You can, however, also transfer Energy from one Transmitter to the next. The transfer of Energy does, however, affect the Energy transmitter's Maintenance cost. Still, it now is possible for you to transfer Energy back and forth between your Islands.</helperquestmailtext><ul class="helperquestmaillist"></ul></td></tr></table></td></tr></table>
+41500005=<table><tr><td><img src="data/graphics/ui/datalog/033a.jpg" /></td><td><table><tr><td><helperquestmailtopic><helperquestmailtopictext>Menu</helperquestmailtopictext></helperquestmailtopic></td></tr><tr><td><helperquestmailtext>A directory of the locations of your Energy transmitters and all Energy transactions can be found on the Strategic map. You can also view the Transfer routes using the appropriate filter on the minimap.<br />To select which island Energy is to be transferred to, simply select it from the Energy transmitter menu.<br /></helperquestmailtext><ul class="helperquestmaillist"></ul></td></tr></table></td></tr></table>
+41500017=Energietransmitter (QuestTrigger)
+41500018=Hiro Ebashi's newest invention makes it possible to transfer Energy between your Islands. This allows you to control your Energy buget more effectively both on land and underwater.
+41500019=[THIRDPARTY_SENDER_PLAYER] has sent an email containing information on the Energy transmitter's functions.
+41500020=I've put together some useful information about the Energy transmitter.
+
+
+# Helperquest Hostile Takeover -1 - -1
+
+41500015=Island shares
+41500006=[GUIDNAME 41500007]<br />[GUIDNAME 41500025]<br />[GUIDNAME 41500008]<br />[GUIDNAME 41500009]<br />[GUIDNAME 41500024]
+41500007=<table><tr><td><img src="data/graphics/ui/datalog/042a.jpg" /></td><td><table><tr><td><helperquestmailtopic><helperquestmailtopictext>Share trading</helperquestmailtopictext></helperquestmailtopic></td></tr><tr><td><helperquestmailtext>Your entry into the sector-wide Stock trading allows you to now buy shares in Islands. It does not matter whether the Island belongs to you or another party in this sector. These Shares can be seen in the Warehouses and Port authorities. In addition to generating regular Dividends, Island shares also allow the hostile takeover of Islands. Stock trading is not affected by Trade embargoes or wars.</helperquestmailtext><ul class="helperquestmaillist"></ul></td></tr></table></td></tr></table>
+41500008=<table><tr><td><img src="data/graphics/ui/datalog/021b.jpg" /></td><td><table><tr><td><helperquestmailtopic><helperquestmailtopictext>Dividends</helperquestmailtopictext></helperquestmailtopic></td></tr><tr><td><helperquestmailtext>Each Island share generates a regular Dividend that is paid to your Balance sheet. The amount of the Dividend depends on the Shares current value. This in turn depends on development on the Island, the Goods in the Warehouse and a number of other factors. So buy Shares early in order to reap Dividends  from the growth of your Island worth several times the amount invested. The Dividend will be paid on a per Share basis. The more Shares in an Island you hold, the more Dividends you receive.</helperquestmailtext><ul class="helperquestmaillist"></ul></td></tr></table></td></tr></table>
+41500009=<table><tr><td><img src="data/graphics/ui/datalog/020b.jpg" /></td><td><table><tr><td><helperquestmailtopic><helperquestmailtopictext>Hostile Takeover</helperquestmailtopictext></helperquestmailtopic></td></tr><tr><td><helperquestmailtext>You can take over another party's Island in the sector completely as soon as you have purchased a 3/5 majority of the Islands shares. If the other party fails to reacquire their majority within the time limit, you can buy the entire Island, for a fee. In this case, the Island will be transferred to you completely, and all enemy Buildings will be demolished.</helperquestmailtext><ul class="helperquestmaillist"></ul></td></tr></table></td></tr></table>
+41500021=[THIRDPARTY_SENDER_PLAYER] has compiled a Data log entry with information about the possibility of hostile takeover.
+41500022=Good news! You can now use a hostile takeover to  conquer Islands without having to resort to military means!
+41500023=My analysis of this method indicates that it is an advisable alternative to war. A hostile takeover gains you control of an Island while effectively protecting residents and the environment.
+41500024=<table><tr><td><img src="data/graphics/ui/datalog/005a.jpg" /></td><td><table><tr><td><helperquestmailtopic><helperquestmailtopictext>Fending off Takeover attempts</helperquestmailtopictext></helperquestmailtopic></td></tr><tr><td><helperquestmailtext>Hostile parties with abundant funding will in turn try to acquire control over your Island. Defend your property by buying Shares in your own Settlement early on.</helperquestmailtext><ul class="helperquestmaillist"></ul></td></tr></table></td></tr></table>
+41500025=<table><tr><td><img src="data/graphics/ui/datalog/052a.jpg" /></td><td><table><tr><td><helperquestmailtopic><helperquestmailtopictext>Island shares</helperquestmailtopictext></helperquestmailtopic></td></tr><tr><td><helperquestmailtext>There are neutral Island shares and Shares that already belong to other parties. Neutral Island shares belong to no one and can be acquired by paying a transaction fee. The fees are transferred directly to the Central trade authority, and are therefore not available to any of the parties in the sector. Shares belonging to other parties are also acquired through the Central trade authority, with the transferred money going directly into the budgets of the three major Factions.</helperquestmailtext><ul class="helperquestmaillist"></ul></td></tr></table></td></tr></table>
+
+
+# Helperquest Conquest mode -1 - -1
+
+
+
+# QuestObjects 41501000 - 41501099
+
+41501000=Station
+41501001=Stations
+41501002=Tracking device
+41501003=Station marker
+41501004=[GUIDNAME 41501003]
+41501005=[GUIDNAME 41501003]
+
+
+# Infotexts 41501100 - 41501499
+
+41501100=Escort the [QUEST_VEHICLETYPE] to [QUEST_AMOUNT] [QUEST_NUMBER].<br />[QUEST_NUMBER]: [GUIDINGESCORT_STATIONS_COMPLETED]/[GUIDINGESCORT_STATIONS_NEEDED]
+41501101=Pick up the Tracking device at [QUEST_SENDER]'s [QUEST_EXECUTION_PLACE].
+41501102=Escort the [QUEST_VEHICLETYPE] to [QUEST_AMOUNT] [QUEST_NUMBER] without it being detected by Scanner units.<br />[QUEST_NUMBER]: [GUIDINGESCORT_STATIONS_COMPLETED]/[GUIDINGESCORT_STATIONS_NEEDED]
+41501103=Take receipt of the Tracking device at your Warehouse in [QUEST_CITY].
+
+
+# Standard Quests 41501500 - 41503499
+
+
+
+# Father 2.0 41501500 - 41501999
+
+41501500=TestGuidingEscort
+41501501=Hypericum perforatum
+41501503="See to the introduction of Nanoparticles onto these Islands to begin the experiment."
+41501504=Expansion program
+41501505="Our expansion program is a necessary measure to ensure S.A.A.T.'s functional and operational independence."
+41501506=Limited means, large impact
+41501507=Emergency generator
+41501508="We should see about getting some Emergency generators in case of power outages."
+41501509="Introduce Nanoparticles onto these Islands to begin the experiment."
+41501510=Fungal infestation
+41501511="A resilient fungus has led to bottlenecks in our food supply."
+41501512=Self-aware
+41501513="Some Home robots have become self-aware and attacked laboratory personnel. They must be disabled and replaced."
+41501514=New guidelines
+41501515="The Science Conventions new guidelines are not universally popular. Escort required."
+41501516=Feral resistance
+41501517="Research requires living organisms, but there are individuals who do not understand that."
+41501518=Regardless of the consequences
+41501519="These plans represent a revolution for S.A.A.T.. For our competitors, they mean economic bankruptcy."
+41501520=Safety requirements
+41501521="The drilling accident has inspired the staff to call for greater security measures."
+41501522=Out of control
+41501523="This prototype of an autonomous research submarine has gone out of control. Attack and destroy."
+41501524=Industrial espionage
+41501525="S.A.A.T. does not tolerate industrial espionage, and it must be stopped."
+41501526=Build us this weapon!
+41501527="These mercenaries have kidnapped one of our most renowned biochemists."
+41501528=As you can see, you see nothing at all!
+41501529="These compact robots should initiate their tranformation on contact with water. Check them again."
+41501530=Washed away
+41501531=Surfacing maneuver
+41501532="This Flotsam was reported missing by one of our Underwater bases."
+41501533="Hasty surfacing often leads to Ships losing their Cargo."
+41501534=Fine
+41501535="We are required to take back these dangerous Goods we had disposed of."
+41501536=Heat-resistant
+41501537="The heat-resistant Crates withstood the fire. The Ship did not."
+41501538=Ouch!
+41501539="Some unexpected incidents occurred the last time the Rescue robot was used to rescue people."
+41501540=Extraction
+41501541="If you are successful in extracting this precious Data, we will leave our competitors far behind us."
+41501542=The informant
+41501543="These informants are under central surveillance. Do you have any information as to who stole the Development certificates?"
+41501544=Testing, testing, testing
+41501545="We have set up a test area for you. Please test our new Long-range sensors for any errors."
+41501546=Decommissioned
+41501547="An efficient and economical disposal of materials! And it's also a good way to test your Weapons technologies."
+41501548=A disappointed customer
+41501549="Dissatisfied customers are unfortunate. Armed dissatisfied customers are dangerous."
+41501550=Someone you can rely on
+41501551="S.A.A.T. leaves the conducting of military conflicts to its business partners."
+41501552=In the name of science
+41501553="The owners of this Vehicle will be compensated for their cooperation in accordance with the Global research agreement."
+41501554=Private use
+41501555="The private use of S.A.A.T. Research personnel is prohibited and will be prosecuted."
+41501556=That looks familiar!
+41501557="I'm registering a match with our stolen Vehicles database. Seizure approved."
+41501558=On to new reefs
+41501559="Provide with this Expedition ship the requested equipment."
+41501560=Champagne!
+41501561="The sale of a new ark is always a reason for S.A.A.T. to celebrate."
+41501562=Efficient help
+41501563="The call has been analyzed and optimized using emotion reduction?"Vehicle damaged. Require repairs.""
+41501564=Orientation tests
+41501565="Orientation tests completed. Would you please bring the androids back to the test lab?"
+41501566=Headhunter
+41501567="The poaching of experts is not permitted in this sector."
+41501568=There goes our research!
+41501569="These runaway test objects could trigger an epidemic. And a financial disaster."
+41501570=Mercenaries on the threshold
+41501571="S.A.A.T. asserts that this Data was obtained in a legal manner. These mercenaries are of a different opinion."
+41501572=Unwilling Trade
+41501573="We broke off Trade relations with this company long ago. Now they want to force a sale."
+41501574=Pay routine
+41501575="A work stoppage? There must have been an error in the pay routine."
+41501576=Strange creatures
+41501577="I have developed a procedure for capturing these strange creatures."
+41501578=A brand new filter
+41501579="In order to verify the feasibility of our new cultivation methods, we must filter the soil samples until they are deep cleaned."
+41501580=Quality assurance
+41501581="The S.A.A.T. quality guidelines require that we review our external Research teams' work on a regular basis."
+41501582=Kaboom!
+41501583="Rest explosions must be carried out on several reefs to determine their suitability as Storage facilities."
+41501584=Sacrifices must be made
+41501585="S.A.A.T. is to a large extent financed through private services, such as the finding of land suitable for building."
+41501586=Ultrasound measurements
+41501587="New developments in ultrasonic measurement enable us to evaluate the extent to which these Islands are suitable for a new distribution center."
+41501588=The machines must roll
+41501589="Saboteurs managed to short out our cooling system and cripple production. Emergency supply procedures initiated."
+41501590=Smock for tux
+41501591="Such spectacles are an effective way to keep human morale at a maximum."
+41501592=Enormous progress
+41501593="The enormous cost of materials for this test series is matched only by its enormous consumption of Energy."
+41501594=Dig it all back up
+41501595="The installation of the new high-frequency Pulsar laser makes it necessary to reinsulate our entire Energy grid."
+41501596=Half as big, twice as efficient
+41501597="Do you want to be present for the compression test? S.A.A.T. is breaking new ground in molecular physics here."
+41501598=All inclusive
+41501599="Upon delivery, all of our Arks come equipped with a generous supply of Building materials and Food."
+41501600=Rich booty
+41501601="The relocation of entire departments can not be done without attracting attention."
+41501602=Just a routine check
+41501603="In the name of security, our inspectors independently check the functionality of out-of-sector Power plants on a regular basis."
+41501604=World Science Forum
+41501605="This years annual World Science Forum has already been overshadowed by aggression."
+41501606=Over our heads
+41501607="Questionable research facilities are trying to prevent the broadcast of the S.A.A.T. Ethics Council decisions at all costs."
+41501608=Two rabbits
+41501609="This pair of activation keys must be shipped separately from one another for safety reasons."
+41501610=We have it on tape
+41501611="This Submarine will document the pollution with its high-resolution underwater cameras. Predict resistance."
+41501612=In the wake
+41501613="In this test, your companion will record your Vehicles hydrodynamic characteristics."
+41501614=Everything will be fine
+41501615="The Board would like a tour of the sector."
+41501616=The last word
+41501617="The project management reserves the right to conduct the personal inspection of Construction site progress themselves."
+41501618=Surveying the deep sea
+41501619="While this Ship does have the latest generation of depth sensors, it does not have ist own navigation system."
+41501620=A hull saved is a hull earned ...
+41501621="Run the welder's team out to the wreck marked on the map."
+41501622=Tricky, tricky!
+41501623="Please monitor the negotiations. This is a delicate matter."
+41501624=Pretty old
+41501625="The Ship provided will take over the radiocarbon analysis of the finds for you and transferred the results immediately."
+41501626=I want to be captain!
+41501627="Thank you for actively supporting the S.A.A.T. training program."
+41501628=That one's good, that one isn't!
+41501629="The expert has to view every Ship in person in order to select the appropriate chassis."
+41501630=Brilliant and dangerous
+41501631="Our Bio-scanners have detected a level of radioactivity dangerous to human life aboard these Submarines."
+41501632=Unmanned flying objects
+41501633="According to my calculations, these unmanned missiles are heading for S.A.A.T.s Global Datacenter."
+41501634=Everywhere, but not here
+41501635="Air traffic has been temporarily restricted in the sector. Confirm the validity of our Data."
+41501636=Treasures of the deeps
+41501637="Our divers have delivered the first samples from the gas hydrate deposit to the surface using lift bags."
+41501638=Isolation principles
+41501639="The test objects have now been under water long enough to test the new insulation foil."
+41501640=Audition
+41501641="I have just determined the location of the acoustic samples to determine the noise pollution."
+41501642=Headhunted!
+41501643="Sometimes it's the fastest Ship that determines where the best talent lands."
+41501644=Development certificates
+41501645="We are not the only ones interested in the new Development certificates."
+41501646=Patents
+41501647="We should file this patent before our competition does."
+41501651=Quality guaranteed
+41501652="S.A.A.T. is responsible for this defective Phase drive. I expect quick and accurate work."
+41501653=More than just old bones
+41501654="S.A.A.T. has reason to believe that this archaeological tender is overshadowed by military intervention."
+41501655=Organ transport
+41501656="Organ transports require the utmost caution. Influential individuals like to bypass the waiting lists entirely."
+41501657=A little fun never hurts
+41501658="The test race should show whether your opponent's new Induction drive can meet expectations."
+41501659=Persuasion
+41501660="Our regular education and marketing initiatives increase the attention we receive from both our customers and our competitors."
+41501661=Where is your license?
+41501662="S.A.A.T. cannot allow the illegal blockade of these dive sites! Do a little persuading."
+41501663=Jammer
+41501664="Scanner units are preventing our work Submarines from further seismic exploration. Drive the jammers off."
+41501665=New location data
+41501666=And what does this button do?
+41501667=Attempted intimidation
+41501668=Export regulations
+41501669="Deliver the new location data to the head of research without disrupting the sensitive metal scanner."
+41501670="Some Rescue drones have gone out of control and switched to security mode."
+41501671="Registering intimidation attempt near reconnaissance Vehicle. Initializing counter-measures. Initiating deterrence routine."
+41501672=" S.A.A.T. considers any relic recovered from the flooded area of the world valuable."
+41501673=An impossibility
+41501674="How could these Ships avoid my high-resolution network of security devices?"
+41501675=Nothing will be built here today!
+41501676="These construction fleets are only the vanguard. The goal is to develop this sectors unauthorized Building sites."
+41501677=That's extortion!
+41501678="I am programmed never to publish research results. Not even under military pressure."
+41501679=Trojan horse
+41501680="My Bio-sensor technology has exposed the crew of this research fleet as Pirates."
+41501681=Disappeared
+41501682="I should point out to you for safety's sake that this is an intrigue."
+41501683=That was unexpected
+41501684="The Science Councils decisions often lead to unexpected uprisings."
+41501685=Rare vaccine
+41501686=Outbreak
+41501687="A vaccine like that shouldn't be sold to the highest bidder, but rather made available to the public instead."
+41501688="If these viruses reach their targets, I predict a dramatic thinning of the local population."
+41501689=The last of its kind
+41501690="Registering extinct form of life on this Ship. Revising Database entry."
+41501691=Working under pressure
+41501692="Our Department of Materials Science would like your assistance with some test runs."
+41501693=Stress tests
+41501694="A stress test is to be done to confirm the results we calculated using the new carbon fiber reinforcement."
+41501695=New paint
+41501696="The application of an alloy of carbon nanotubes should protect the research Ship, even for dangerous dives."
+41501697=You want to put that where?
+41501698="Some volunteers decide not to cooperate immediately before surgery."
+41501699=Eureka!
+41501700="The forensic section has made a pioneering breakthrough. Please find the relevant project manager."
+41501701=Shift change
+41501702="Our technical field staff are in constant motion."
+41501703=Controversial Genius I
+41501704="S.A.A.T. can not allow the greatest genius of the new century to be kept a political prisoner."
+41501705=Controversial Genius II
+41501706="Prevent the execution of the warrant and make sure our guest is safe."
+41501707=Controversial Genius III
+41501708="S.A.A.T. must bear the consequences of the recent events. Arrange for the professor's transfer."
+41501709=Reclamation I
+41501710="Arrange for landfills on these Islands as the cornerstone for a series of innovations in the use of space."
+41501711=Reclamation II
+41501712="Erosion-endangered Islands can be secured, and even enlarged, through targeted planting."
+41501713=Reclamation III
+41501714="The concept of multi-level crop cultivation is considered to be extremely promising and effective. However, we are missing some key technologies."
+41501715=Pilot Project I
+41501716="It's unlikely that we will be able to find a pilot with the appropriate physique for the test in one of our facilities."
+41501717=Pilot Project II
+41501718="In light of the negative results, we should expand our search to the surrounding regions."
+41501719=Pilot Project III
+41501720="Give our new test pilot with a comprehensive nautical introduction."
+41501721=Pilot Project IV
+41501722="The last fitness test uses live, automated drones and should simulate any eventual combat situations."
+41501723=Quarantined I
+41501724="We are facing the threat of an unknown virus. Quarantine order issued."
+41501725=Quarantined II
+41501726="The key to an effective anti-serum lies in the determination of the host animal. Maximum security."
+41501727=Quarantined III
+41501728="The successful extraction and decoding of the genome allows our immunologists to create an anti-serum."
+41501729=Quarantined IV
+41501730="Act quickly to get the vaccine to the other Settlements."
+41501731=An unpredictable substance I
+41501732="The sudden increase in the efficiency of our Scientists is completely illogical. Get more information."
+41501733=An unpredictable substance II
+41501734="The respondents mentioned a middleman, who is listed in our Database as a pharmaceutical sales representative."
+41501735=An unpredictable substance III
+41501736="The performance-enhancing substances recovered confirm my suspicions. Registering a match with illegal drugs."
+41501737=An unpredictable substance IV
+41501738="The danger posed by these substances is an incalculable risk for S.A.A.T.. Disposal initiated."
+41501739=An unpredictable substance V
+41501740=A new Energy era I
+41501741="The first phase of the strategy paper envisions the extraction of large amounts of deuterium from the ocean."
+41501742=A new Energy era II
+41501743=A new Energy era III
+41501744="The acquisition of sunken technologies from earlier experimental assemblies could accelerate the construction phase measurably."
+41501745="With a project this size, we need to be certain of the other parties' support."
+41501746=A new Energy era IV
+41501747="The basic structure of the magnetic coils in the reactor requires both the greatest precision and enormous amounts of materials."
+41501748=A new Energy era V
+41501749="Reporting interruption in project progress. You have just been made responsible for the procurement of spare parts."
+41501750=A new Energy era VI
+41501751="Register attempt at military intervention. Prevent project failure so close to completion."
+41501752=A new Energy era VII
+41501753="Thanks to your efforts, the fusion reactor is ready for its first test phase. Gather the team."
+41501757=Definitely sounds interesting
+41501758="The faster we run the echo cartographic sea floor analayses in this sector, the sooner we will know for sure."
+41501759="S.A.A.T. Research facilities are not a market for drugs this dangerous. Convince these Traders of that, too."
+
+
+# Tech03 41502000 - 41502099
+
+41502000=More, more, more!
+41502001=Don't start crying
+41502002=Funding pot
+41502003="So what? Maybe I was a bit too hard on them ... That's no reason to run off right away."
+41502004="I specifically asked for more staff. How am I supposed to work under such adverse conditions?"
+41502005="Do you think our funds are unlimited? Sometimes you just have to get your own materials."
+41502006=A valuable lesson
+41502007="Selling the results as his own ... that's the last time I'll ever collaborate!"
+41502008=Shattered
+41502009="Careful! Don't knock anything over! ... For crying out loud, you can at least get me a replacement!"
+41502010=Sorry to bother you
+41502011="Just make sure you do not interrupt my work rhythm, and deliver the parts."
+41502012=Please!
+41502013="They're about to sail! Persuade the Science Council to give me carte blanche for the project!"
+41502014=What do I care about the rules
+41502015=No time to lose
+41502016="Do you want to wait until I'm 17, or why don't you get this show on the road?!"
+41502017=We're pleased to see you, too
+41502018="Who told you that I miss them? I'm only interested in any eventual genetic predispositions ..."
+41502020="Correct! Those crates were sunk for safety reasons, so that you could return them to me!"
+
+
+# VictoryConditions 41502100 - 41502109
+
+41502100=Few Tech Max Residents
+41502101=Medium Tech Max Residents
+41502102=Plenty Tech Max Residents
+41502104=VictoryConditionMonumentTech
+41502105=VictoryConditionMonumentAllThree
+41502106=Eco Monument
+41502107=Tycoon Monument
+41502108=VictoryConditionMonumentAnyAndTech
+
+
+# Dr. Devi 41502110 - 41502139
+
+41502110=Reaction Residences GeniusTech
+41502111=Reaction Tech Monument built
+41502112=Couch potato
+41502113=Trust is good, but control is better
+41502114=Compensation
+41502115=Risk of infection
+41502116=Early adopter
+41502117=Exclusion
+41502118=Proud of it
+41502119=Brainwashing
+41502120=Piggyback
+41502121=Best of the best
+41502122="We can never be absolutely certain if we do not test the materials in different environments."
+41502123="Our quality guidelines require the new products to be checked at random."
+41502124="He said he was the head inspector, and they just let him walk off with the products?"
+41502125="Both the instruments used for the insertion and the implants themselves must meet very high standards in quality."
+41502126="We promised the first loads to a few particularly good customers."
+41502127="This type of 'special' surgical procedure can only be performed in international waters."
+41502128="Our free mobile medical service is an important part of our Company history."
+41502129="The new range of products must be advertised. This time we're giving you an entire advertising team."
+41502130="The on-board electronics are shot! We have no other option but to tow the Ship in."
+41502131="An ermergency! We need the best of the best! Find him ... and hurry!"
+
+
+# Jana Rodriguez 41502140 - 41502169
+
+41502140=Caution: circular saw
+41502141=With the power of two
+41502142=Take it easy
+41502143=Gray cells instead of silicon
+41502144=Energy efficiency category Double Plus
+41502145=Helping the helpers
+41502146=In a thousand places at once
+41502147=All in the same direction
+41502148=Good morning, deep sea
+41502149=Sisters in Spirit
+41502150="I don't expect you to chain yourself to a tree, too. Support us indirectly."
+41502151="These new exoskeletons should speed up the reforestation work on the Islands enormously."
+41502152="Can you get us some of the new raw material samples for analysis? We have our doubts about them."
+41502153="The development of organic processing units as a real alternative could help to counteract the endless consumption of resources through normal computers."
+41502154="We are currently upgrading all of our Ships with more efficient Energy storage. Want to help us?"
+41502155="We have been running an Ark for the homeless and stranded for many years, and now it needs support."
+41502156="Hanging banners, distributing flyers, holding rallies ... all in one day? I can't do it alone."
+41502157="We are hopeful that universally applicable decisions will finally be made at this year's environmental congress. All aboard!"
+41502158="To counteract the underwater noise pollution caused by our wind turbines, we are experimenting with mobile soundwave resonators."
+41502159="The knowledge these indigenous shamans have of naturopathy is of inestimable value to us all."
+
+
+# Rufus Throne 41502170 - 41502199
+
+41502170=A dollar for the whole Island?
+41502171=No Christmas bonus?
+41502172=Absolutely safe
+41502173=So much for ideals
+41502174=Consolation
+41502175=All show and no go!
+41502176=If I'd known you were coming ...
+41502177=Do it yourself
+41502178=Short break on expenses
+41502179=Please open up
+41502180="Maybe we can persuade the Islanders to leave their Settlements this way."
+41502181="I think I can make up the lost bonus payments in another way ..."
+41502182="Thanks to this new Bio-suit, we can now send workers into contaminated areas. Bravo!"
+41502183="Any conviction can be bought with enough money. Bring that Eco his hush money."
+41502184="Layoffs are one of the most unpleasant matters. Put a little more sugar on top on behalf of the Company."
+41502185="Urgently required modernization, they say? I say, a fresh coat of paint will do the trick, too?"
+41502186="Keep the inspectors busy while we clear the decks here."
+41502187="Even the boss has to show a little presence on occasion to bolster the work ethic."
+41502188="I think I'll take the afternoon off, and you can show me the Islands! Ready?"
+41502189="We suspect that some senior employees may have misappropriated funds. Accompany our tax auditor to the Geniuses."
+
+
+# Tilda Jorgenson 41502200 - 41502219
+
+41502200=Take it easy
+41502201=Public image
+41502202=Closing gaps
+41502203=A new home
+41502204=Stay composed
+41502205=My, how you have grown!
+41502206="Although provided by generous sponsors, each of our potential Settlement sights needs to be checked for toxic pollution."
+41502207="We use implants only for therapy, not that anyone gets the false impression."
+41502208="We strive for self-sufficiency, but we cannot produce everything ourselves."
+41502209="Foundlings are not uncommon for us. People trust us here in the community."
+41502210="If we cannot bail the animals out, they should at least be seen by a veterinarian."
+41502211="Our family gatherings usually end in a disaster. Better keep an eye out!"
+
+
+# Rival 41502220 - 41502239
+
+41502220=It tastes funny
+41502221=We're doing fine
+41502222=And picky, too
+41502223=Exhibition
+41502224=With borrowed plumes
+41502225=Secretmonger
+41502226="By the time he finds out that we've polluted his groundwater, we'll be long gone."
+41502227="When those vultures see which valuable Goods are traded here, that could really boost our sales."
+41502228="The man is demanding where his hush money is concerned. Come up with something really special."
+41502229="I want you to show these 'ambassadors' that Thor Strindberg is afraid of nothing and no one."
+41502230="Now they're acting like those were my yachts, right in front of the investors."
+41502231="Don't be so curious! My aide will take over the talks this time. You're in charge of security!"
+
+
+# Sokow 41502240 - 41502259
+
+41502240=Shake
+41502241=Visionary
+41502242=Mess
+41502243=Stay right behind me
+41502244=Insider
+41502245=Division of labor
+41502246="And you say these suits protect against the most obstinate oil ...? Done! Can you deliver right away?"
+41502247="Refine it yourself on a large scale? Increase profits? You've figured out the way things run, my friend!"
+41502248="Those pesky activists have somehow made the Oil in our Oil tankers clump."
+41502249="Our captains are experienced navigators, but you say you know some even more efficient routes?"
+41502250="Who said price-fixing ruins the market? Whoever it was doesn't have a clue about business."
+41502251="To buy the rights to move land from its owners is always difficult. I' going to negotiate, you drive!"
+
+
+# Tori 41502260 - 41502279
+
+41502260=Sound evidence
+41502261=Equality
+41502262=Go-Go Gadget hands
+41502263=To press
+41502264=Best offer
+41502265=Lecturer in applied navigation
+41502266="I'll only be able to convince the department of the profitability if you can bring me the corresponding Resource samples."
+41502267="Implants could be a way for merely average students to fully develop their capabilities."
+41502268="A scientist's tools should work as reliably as a natural extension of his hands."
+41502269="The articles I have written must be distributed as quickly as possible ... now move!"
+41502270="I will have to speak with the College personally when it comes to this amount of  research funding."
+41502271="My students learn all about sea floor analysis and cell structures, but not how to navigate their Research ships."
+
+
+# Leon 41502280 - 41502299
+
+41502280=Update 1.1
+41502281=Something very exquisite
+41502282=More power!
+41502283=All aboard
+41502284=Detention
+41502285=Just a splash
+41502286="New Mine sites are sprouting up everywhere! We urgently need to update our Database."
+41502287="From the sea floor, you say? That does not automatically mean less harmful to the environment ... show me."
+41502288="We consider alternative drives incredibly important, as long as they deliver the necessary power."
+41502289="Take our strike force and start training for the real thing! I have provided appropriate Vehicles for boarding."
+41502290="Our Submarine squadron is still in its infancy. Given the recent developments, we should ramp up our training ."
+41502291="Whether the Oil in these tankers will still be so valuable after our little modification ...?"
+
+
+# Seamus Green 41502300 - 41502319
+
+41502300=Tuesdays at Seamus'
+41502301=From the garden
+41502302=Nice thought
+41502303=But they were just here a minute ago ...
+41502304=The little rascals
+41502305=Ride
+41502306="Sometimes I worry about my legacy ... do you think we could take down a couple of thoughts?"
+41502307="You know what the secret of my youthful vigor is? Sixty years of healthy nutrition."
+41502308="I'm sure you only wanted to help me, but distribute them to our expedition teams instead."
+41502309="Of course I still know the way ... it's the just that the last visit to the outpost was a long time ago."
+41502310="My grandchildren keep me pretty busy. I wonder if a little boat trip would distract them?"
+41502311="That new draft law really took it out of me. Can I talk you into a little recreational tour?"
+
+
+# Skylar Banes 41502320 - 41502339
+
+41502320=All in vain
+41502321=Onslaught
+41502322=Signed and sealed
+41502323=Long time ago ...
+41502324=Personal initiative
+41502325=Protection money
+41502326="With these gifts we could sow a little discord among the Eden Initiatives followers."
+41502327="You heard what's happening ... sold out! Don't tell me you have reserves?"
+41502328="If we help get this Eco Council member out of trouble, the next vote may just already be in the bag."
+41502329="Seamus and I grew up together ... I would love to visit the places of our youth once more."
+41502330="Our border guards are supposed to have demanded exorbitant tolls, which they kept for themselves ... let me congratulate those responsible in person."
+41502331="They will need more Cargo space when they pick up the bribe Goods from our outside sales representatives."
+
+
+# Pirate 41502340 - 41502359
+
+41502340=Where was that again?
+41502341=Even without a serial number
+41502342=The craftsmen are here!
+41502343=Final exam
+41502344=Bait
+41502345=Cunning plan
+41502346="Our Pirate hideouts are sometimes so overgrown that we need heavy equipment just to get through to them."
+41502347="A new Drive for each of our messengers ... I don't care how you get them."
+41502348="A perfect opportunity for us to infiltrate our 'repair team'. A chance like this doesn't come along every day."
+41502349="Actually you're born a pirate... Ok then, show us what you've got!"
+41502350="You have to get us close enough, right? And if you breathe just one word ..."
+41502351="You go first, and we'll storm unexpectedly out of your slipstream. Oh, are they in for a surprise!"
+
+
+# Hiro Ebashi 41502360 - 41502379
+
+41502360=Almost, just different
+41502361=Promising
+41502362=The doctor is in
+41502363=Infidel
+41502364=Imbalance
+41502365=Responsible
+41502366="In our work environment, the pressure ratios are slightly different, just like our work equipment."
+41502367="The Trench contains far more resources than you think, but we need the external rocks as a basis for comparison."
+41502368="Whatever they saw, the crew of the 'Journey' seems to be suffering from severe anxiety."
+41502369="Can you show me the new Mine sites? I have to see this with my own two eyes."
+41502370="The Trench wall tilted slightly after the last eruption. Let's go inspect it."
+41502371="We do not keep important discoveries we make in the deep sea a secret, we share the information instead ."
+
+
+# Black market Trader 41502380 - 41502479
+
+41502381=Down to the last
+41502382=Retro Grandpa
+41502383=Forethought
+41502384=Comeback
+41502385=So show me!
+41502386=Expert knowledge
+41502387="Where I come from people'd sell their livers for somethin' like that. Don't know as I'd go all that far, myself."
+41502388="All this modern nonsense ain't nothin' fer ol' Trenchcoat, but the customers seem t' love it."
+41502389="There's a storm a'brewin'! We better store the new Goods on our tender."
+41502390="I bin thinkin' about gettin' the band back t'gether again ..."
+41502391="Always a good idea t' keep track of the competitors' prices."
+41502392="Spare parts for the old girl are hard to find. Better take one o' our technicians."
+
+
+# Eve 41502480 - 41502499
+
+
+
+# WinconditionsSub 41502500 - 41502599
+
+
+
+# PlayerCounter 41503500 - 41503599
+
+41503500= <icon type="autosize" guid="2600061" /> Attain [GUIDNAME 41001201]: [QUEST_VICTORYCONDITION_PLAYERCOUNTER 0] 
+41503501=[GUIDNAME 41002004]: 
+41503502=Time spent in Conquest mode<br />(in minutes):
+41503503=Energy transferred:
+41503504=Shares of own Island purchased:
+41503505=Foreign shares purchased:
+41503506=Islands bought:
+41503507=Underwater Trading routes set up:
+41503508=Complete Convoy jobs:
+
+
+# Achievements  41503600 - 41504599
+
+41503600=Monster chain
+41503601=[GUIDNAME 41503600]
+41503602=[GUIDNAME 41503600]
+41503605=A scientist is only as good as their tools
+41503606=[GUIDNAME 41503605]
+41503607=[GUIDNAME 41503605]
+41503610=Tsunami
+41503612=Monument collector
+41503613=Build all three monuments on one Island:
+41503614=The Holy Trinity
+41503619=To the rescue, again
+41503620=FinishScenario02
+41503621=FinishScenario03
+41503622=FinishScenario04
+41503623=Recovered Engineering
+41503624=I whipped a little something up
+41503636=Achieve Geniuses.
+41503637=Genius, Tycoon Executives and Eco Executives settled on the same Island:
+41503638=Gathered elite
+41503641=Look, a real genius!
+41503643=[GUIDNAME 41503641]
+41503644=[GUIDNAME 41503641]
+41503645=SpendTimeInConquestMode
+41503647=Now just don't get lost
+41503648=Shareholder
+41503649=Global Player
+41503650=3, 2, 1, done!
+41503651=Transfer master
+41503652=The depths of logistics
+41503654=The future of industry
+41503663=[GUIDNAME 41503648]
+41503664=[GUIDNAME 41503648]
+41503665=[GUIDNAME 41503649]
+41503666=[GUIDNAME 41503649]
+41503667=[GUIDNAME 41503650]
+41503668=[GUIDNAME 41503650]
+41503669=My boss, the machine
+41503670=[GUIDNAME 41503669]
+41503671=[GUIDNAME 41503669]
+41503675=Flatlander
+41503676=Supply at least 1,000 geniuses for 30 minutes without a single mine
+41503680=[GUIDNAME 41503647]
+41503681=[GUIDNAME 41503647]
+41503682=Keep an Island with at least 1000 Geniuses supplied for 30 minutes without a single Energy production building:
+41503683=Dependence celebrated
+41503688=[GUIDNAME 41503651]
+41503689=[GUIDNAME 41503651]
+41503692=The end of the flagpole
+41503693=Forces from the deep
+41503694=[GUIDNAME 41503693]
+41503695=[GUIDNAME 41503693]
+41503699=Fighter for enviroment
+41503700=For the future
+41503701=From up here everything looks so small
+41503710=Under the radar
+41503711=Special Flotsam
+41503714=[GUIDNAME 41503710]
+41503715=[GUIDNAME 41503710]
+41503716=[GUIDNAME 41503711]
+41503717=[GUIDNAME 41503711]
+
+
+# Achievement Descriptions -1 - -1
+
+41503603=Produce [GUIDNAME 41200003].
+41503604=[GUIDNAME 1117025] You have produced an enormous amount of [GUIDNAME 41200003].
+41503608=Produce [GUIDNAME 41200001].
+41503609=[GUIDNAME 1117025] You have produced an enormous amount of [GUIDNAME 41200001].
+41503611=[GUIDNAME 1117026] You have been hit by a Tsunami.
+41503615=Build a [GUIDNAME 40000024]
+41503616=[GUIDNAME 1117025] You have built all three Monuments.
+41503617=Build an Eco, a Tycoon and a Tech Monument on one single Island.
+41503618=[GUIDNAME 1116813] You have built an Eco, a Tycoon and a Tech Monument on one single Island.
+41503625=Successfully complete the "[GUIDNAME 41600000]" mission.
+41503626=[GUIDNAME 1116809] You have successfully completed the "[GUIDNAME 41600000]" single mission.
+41503627=Successfully complete the "[GUIDNAME 41602000]" mission.
+41503628=[GUIDNAME 1116809] You have successfully completed the "GUIDNAME 41602000]" single mission.
+41503629=Successfully complete the "[GUIDNAME 41603000]" mission.
+41503630=[GUIDNAME 1116809] You have successfully completed the "GUIDNAME 41603000]" single mission.
+41503631=Successfully complete the "[GUIDNAME 41605000]" mission.
+41503632=[GUIDNAME 1116809] You have successfully completed the "GUIDNAME 41605000]" single mission.
+41503633=Successfully complete the "[GUIDNAME 41604000]" mission.
+41503634=[GUIDNAME 1116809] You have successfully completed the "[GUIDNAME 41604000]" single mission.
+41503635=You have completed all the preparations for repairs to the Geothermal power plant.
+41503639=Settle Geniuses, Tycoon Executives and Eco Executives on the same Island. 
+41503640=[GUIDNAME 1116813] You have settled Geniuses, Tycoon Executives and Eco Executives on the same Island.
+41503642=Attain Geniuses.
+41503646=[GUIDNAME 1116813] You have spent 10 hours in Conquest Mode.
+41503656=Purchase Shares in one of your own Islands.
+41503657=[GUIDNAME 1116809] You have purchased Shares in one of your own Islands.
+41503658=Purchase Shares in a foreign Island.
+41503659=[GUIDNAME 1116809] You have purchased Shares in a foreign Island.
+41503660=Acquire Islands through Hostile takeovers.
+41503661=[GUIDNAME 1116813] You have acquired Islands through Hostile takeovers.
+41503662=[GUIDNAME 1116813] You have set up an Underwater trading route.
+41503672=Complete Quests for [GUIDNAME 2330028].
+41503673=[GUIDNAME 1116809] You have completed an amazing number of Quests for [GUIDNAME 2330028].
+41503677=Keep at least 1000 Geniuses supplied for 30 minutes without a single Mine.
+41503678=[GUIDNAME 1117025] You have supplied at least 1000 Geniuses for 30 minutes without a single Mine.
+41503679=Complete Convoy category Quests.
+41503684=Keep an Island with at least 1000 Geniuses supplied for 30 minutes without a single Energy production building.
+41503685=[GUIDNAME 1117025] You kept an Island with at least 1000 Geniuses supplied for 30 minutes without a single Energy production building.
+41503686=Transfer Energy via Energy transmitters
+41503687=[GUIDNAME 1116809] You have transferred enormous amounts of Energy via Energy transmitters.
+41503690=Produce each and every Genius Good.
+41503691=[GUIDNAME 1116809] You have produced all of the Genius Goods.
+41503696=Build a Geothermic power plant.
+41503697=Build a [GUIDNAME 40000024]
+41503698=[GUIDNAME 1116809] You have built a [GUIDNAME 40000024].
+41503702=Finish the single mission "[GUIDNAME 41607000]" successfully.
+41503703=[GUIDNAME 1116809] You have finished the single mission "[GUIDNAME 41607000]" successfully.
+41503704=Finish the single mission "[GUIDNAME 41607500]" successfully.
+41503705=[GUIDNAME 1116809] You have finished the single mission "[GUIDNAME 41607500]" successfully.
+41503706=Finish the single mission "[GUIDNAME 41608000]" successfully.
+41503707=[GUIDNAME 1116809] You have finished the single mission "[GUIDNAME 41608000]" successfully.
+41503708=Use Items of the type Naval mine. 
+41503709=Use Items of the type Silent Running. 
+41503718=Build an Eco-, Tycoon- or a Tech monument.
+41503719=[GUIDNAME 1116813] You have fulfilled a large number of quests of the "Convoy" category.
+41503720=[GUIDNAME 1116811] You have reached a huge amount of Geniuses.
+41503721=[GUIDNAME 1116811] You have used a vast amount of "Sea mine" item types.
+41503722=[GUIDNAME 1116811] You have used a huge number of "Silent running" item types.
+41503723=[GUIDNAME 1116810] You have built a large amount of Geothermical power plants.
+
+
+# Function Quests E.V.E. 41504600 - 41505099
+
+41504600=Unlock Town Acquisition
+
+
+# Rewards 41505100 - 41506099
+
+41505100=AllNewUpgradesItemsLocal
+41505101=AllNewUpgradeItemGlobal
+41505102=AllNewActionItems
+41505103=AllAddonItems
+41505104=Father_Special
+41505105=Guru_MoneyReward
+41505106=FatherAddonItems
+
+
+# Chapters 41600000 - 41699999
+#------------------------------
+
+
+
+# Addon Campaign 41600000 - 41699999
+
+
+
+# Mission 01 (2000 GUIDs) 41600000 - 41601999
+
+
+
+# General -1 - -1
+
+41600000=Illusion's end
+41600001=<p>Help Tilda Jorgensen and Vadim Sokow deal with the consequences of a Tsunami.</p>
+41600002=<p>Tilda Jorgensen's and Vadim Sokow's Settlements are suddenly hit by a massive Tsunami. Provide the necessary assistance for the evacuation and repair the damage done by the Tsunami.</p> <p><icon type="autosize" guid="2600194" /> Scenario goals:<br/>- Evacuate the Population<br/>- Get Sokow's production back up and running</p><p><senatesubheadfix>Focus: Quests, Emergency aid</senatesubheadfix></p>
+41600003=The only way Jorgensen and Sokow have a chance is if you help them. Unfortunately, I don't have the Resources to provide direct and effective assistance ...
+41600004=The injured urgently need medical attention! I don't even know who I should see first ...
+41600005=Not my Oil rig! Quick! Stop my Oil - my money! - from floating away from me!
+
+
+# Story Quest -1 - -1
+
+41600060=[GUIDNAME 41600000]
+41600061=Help Tilda Jorgensen and Vadim Sokow overcome the consequences of the disaster.
+41600037="The Tsunami hit the Islands of [GUIDNAME 2330024] and [GUIDNAME 2330021] hard, causing severe damage. Please help them cope with the consequences of the disaster."
+41600036=WinSubQuestTilda
+41600063=WinSubQuestVadim
+41600062=Evacuate the Population of Tilda Jorgensen's Island.
+41600064=Get the production on Vadim Sokow's Island back on track.
+
+
+# RecoverCastaway -1 - -1
+
+41600009=Survivors in the sea
+41600018="The wave dragged my workers out into the open sea! You have to save them!"
+
+
+# RepairOilRig -1 - -1
+
+41600006=Fire and Water
+41600007=Emergency help
+41600015="With a few more people, we could put together an emergency kit for you!"
+41600017="That Oil rig hasn't even paid for itself, yet! Do something, quick!"
+41600102=Extinguish the fire on the Oil rig using:<br/>[QUEST_FEATURECOUNTER]
+
+
+# CleanBlackTide -1 - -1
+
+41600033=Black-letter day
+41600012=quid pro quo
+41600019="Oh no! The Oil slick has reached my Island! Please help me! We have enough problems as it is!"
+41600038="Do I have what you need? Well ... One hand washes the other ..."
+41600091=[GUIDNAME 41600012]
+
+
+# RestoreEconomyOilBaron -1 - -1
+
+41600024=[GUIDNAME 5000037] get his business back on track.
+41600090=Back on the grid
+41600023=[GUIDNAME 41600090]
+41600027=[GUIDNAME 41600090]
+41600044=[GUIDNAME 41600090]
+41600025="My Power plants must be rebuilt. Without electricity, I might as well abandon this Island right now."
+
+
+# Main Quest -1 - -1
+
+41600065=[GUIDNAME 5000037] expand your Settlement in order to accommodate the survivors.
+41600066=Expand your Settlement in order to evacuate the survivors.
+41600039=Pick up the survivors from [QUEST_SENDER]'s [QUEST_EXECUTION_PLACE].
+41600087=Move all the survivors to your [QUEST_EXECUTION_PLACE] in [QUEST_EXECUTIONCITY].
+41600088=[GUIDNAME 5000037] get the survivors to safety.
+41600089=[THIRDPARTY_SENDER_PLAYER] asks if you want to take the survivors on board now.
+
+
+# EvacuateI -1 - -1
+
+41600021=Evacuation
+41600022="We have to evacuate my Population. I just hope you have enough space for us ..."
+41600054=[GUIDNAME 41600021]
+41600040=[GUIDNAME 41600021]
+41600052=[GUIDNAME 41600021]
+
+
+# EvacuateII -1 - -1
+
+41600067=Evacuation II
+41600071="It's bad enough that the children have lost their parents. At least they should be well taken care of ..."
+41600075=[GUIDNAME 41600067]
+41600079=[GUIDNAME 41600067]
+41600083=[GUIDNAME 41600067]
+
+
+# EvacuateIII -1 - -1
+
+41600068=Evacuation III
+41600072="The rescue workers can return now. Your work here is done ..."
+41600076=[GUIDNAME 41600068]
+41600080=[GUIDNAME 41600068]
+41600084=[GUIDNAME 41600068]
+
+
+# EvacuateIV -1 - -1
+
+41600069=Evacuation IV
+41600073="These people weren't injured too badly. They are now ready to be moved!"
+41600077=[GUIDNAME 41600069]
+41600081=[GUIDNAME 41600069]
+41600085=[GUIDNAME 41600069]
+
+
+# EvacuateV -1 - -1
+
+41600070=Evacuation V
+41600074="The last of the wounded are now ready to go. We can finally ship them out!"
+41600078=[GUIDNAME 41600070]
+41600082=[GUIDNAME 41600070]
+41600086=[GUIDNAME 41600070]
+
+
+# Side Quest -1 - -1
+
+
+
+# Mood -1 - -1
+
+
+
+# Intro/Outro -1 - -1
+
+41600092=[THIRDPARTY_SENDER_PLAYER] informs you that his sensors have picked up an unusual occurence under water.
+41600093=[THIRDPARTY_SENDER_PLAYER] hopes that all of the Inhabitants were able to reach safety in time.
+41600094=[THIRDPARTY_SENDER_PLAYER] is caught unawares by the Tsunami.
+41600095=[THIRDPARTY_SENDER_PLAYER] asks you to help rescue the people.
+41600096=[THIRDPARTY_SENDER_PLAYER] thanks you for evacuating her Population.
+41600097=[THIRDPARTY_SENDER_PLAYER] is pleased that his Employees can now get back to work.
+41600098=[THIRDPARTY_SENDER_PLAYER] tells you that he wants to track down the cause of the disaster.
+
+
+# Hidden Quest -1 - -1
+
+41600059=WinQuest
+41600103=OilRigControlQuest
+41600104=OilRigControlQuest2
+41600105=OilRigControlQuest3
+41600106=OilRigControlQuest4
+41600107=OilRigControlQuest5
+
+
+# Audios -1 - -1
+
+41600099=What ... What's that? The sensors are reporting a powerful quake!
+41600100=What a horrible disaster! Someone has to help the victims!
+41600101=I wish to thank you most sincerely. I do not know what would have happened to this sector without your help. But I have another problem. Extensive investigations have confirmed my worst fears: the disaster was caused by a Geothermal power plant I developed. I have not yet been able to determine the exact cause. A detailed analysis is required, but it requires considerable preparation. I hope I can continue to count on your help?
+
+
+# Mission 02 (1000 GUIDs) 41602000 - 41602999
+
+
+
+# General -1 - -1
+
+41602000=Shortage of skilled workers
+41602006=<p>Help Hiro Ebashi to attract skilled workers to this sector by building a Metropolis home to a large number of Geniuses.</p>
+41602007=<p>The creation of a simulation model is one of the most important steps for the analysis. ETO has a very limited staff available, far too few to meet the challenges ahead.<br />So help Hiro Ebashi to attract a large number of Geniuses to this sector. Both the Eden Initiative and Global Trust have already pledged you their support.</p> <p><icon type="autosize" guid="2600194" /> Scenario goals:<br/>- Achieve 1000 Tech Geniuses</p><p><senatesubhead>Focus: Development, Techs</senatesubhead></p>
+41602008=The creation of a simulation model useful for isolating the Geothermal power plant malfunction would only be possible with the help of additional experts.
+41602065=It goes without saying, that Global Trust will help in the search for the cause of this unfortunate catastrophe! This sectors safety must be found secured as quickly as possible.
+41602066=It's terrible that we didn't notice this malfunction while still in the design stage. We must ensure that this clean Energy source is safe.
+
+
+# Story Quest -1 - -1
+
+41602002=[GUIDNAME 41602000]
+41602003=WinSubQuest
+41602004=Provide Dr. Ebashi with the staff necessary to create the simulation model needed so desperately for the analysis.
+41602005="A detailed simulation model could be crucial to the success of the analysis, as well as to repairs."
+
+
+# Main Quest -1 - -1
+
+
+
+# Side Quest -1 - -1
+
+
+
+# BuildingModuleTech -1 - -1
+
+41602020=The agony of choice
+41602019=[GUIDNAME 41602020]
+41602032="After a disaster like that you should really stick to ecologically sound solutions! And that makes us your first port of call!"
+41602033="Global Trust will grant you access to all our Technologies. If you help us a little here and there."
+
+
+# EnergyTech -1 - -1
+
+41602009=Sparks
+41602010=[GUIDNAME 41602009]
+41602034="Here at the Eden Initiative, we'll be happy to train your people in environmentally friendly Energy generation!"
+41602035="You know yourself that time is running out ... Your engineers should therefore focus on more efficient Power plants!"
+
+
+# ToolsTech -1 - -1
+
+41602027=Survival support
+41602036="The refugee camps in the disaster area will thank you! And you won't go empty handed, either!"
+
+
+# OptionalOilDrillerTech -1 - -1
+
+41602037=Alternatives
+41602038="Just in case you're interested in Oil production on land ... This exchange would be beneficial for all of us."
+
+
+# OptionalEnergyLVL2Tech -1 - -1
+
+41602039=Further education
+41602040=[GUIDNAME 41602039]
+41602041="Nuclear power plants will significantly speed up your progress. And here at Global Trust, we can train your architects accordingly!"
+41602042="Don't even think of it! The Eden Initiative would be only too happy to show your people reliable alternatives!"
+
+
+# OptionalEnergyLVL3Tech -1 - -1
+
+41602043=Let there be light
+41602044="The creatures we are looking for use the power of photosynthesis! I can't advise you strongly enough to upgrade to that, too!"
+
+
+# OptionalEcoBalanceTech -1 - -1
+
+41602049=New home
+41602050="With the Eden Initiatives Weather control stations, we could quickly set up a new home for Tilda's commune."
+
+
+# OptionalEcoBalanceLVL2Tech -1 - -1
+
+41602051=Mountains and valleys
+41602052=[GUIDNAME 41602051]
+41602053="Our extensive training programs are starting up again. We'd be happy to show your people how to carefully monitor the ecosystem while we're at it!"
+41602054="In contrast to those amateurs, Global Trust offers your architects solutions that won't impact your Raw material production!"
+
+
+# Mood -1 - -1
+
+
+
+# Intro/Outro -1 - -1
+
+41602067=[THIRDPARTY_SENDER_PLAYER] informs you of the conditions that need to be met to settle enough skilled workers in this sector
+41602068=[THIRDPARTY_SENDER_PLAYER] you like to point out that you need to produce new Goods to satisfy your Population.
+41602069=[THIRDPARTY_SENDER_PLAYER] explains that there is now sufficient staff and thanks you for your help.
+41602070=[THIRDPARTY_SENDER_PLAYER] is thrilled that a simulation model can now be created to investigate the cause.
+
+
+# Hidden Quest -1 - -1
+
+41602001=WinQuest
+41602017=HiddenTycoonTechs4
+41602016=HiddenTycoonTechs3
+41602015=HiddenTycoonTechs2
+41602014=HiddenEcoTechs4
+41602013=HiddenEcoTechs3
+41602012=HiddenEcoTechs2
+41602023=HiddenSmeltingWorksTech
+41602025=HiddenSmeltingWorksTechSubWin
+41602026=HiddenSmeltingWorksTechSubLose
+41602031=InitQuest
+
+
+# Assets -1 - -1
+
+41602011=<icon type="autosize" guid="2600236" /> [GUIDNAME 41602064]: [GUIDNAME 10029]
+41602018=<icon type="autosize" guid="2600236" /> [GUIDNAME 41602064]: [GUIDNAME 10025]
+41602022=<icon type="autosize" guid="2600236" /> [GUIDNAME 41602064]: [GUIDNAME 10261]
+41602021=<icon type="autosize" guid="2600236" /> [GUIDNAME 41602064]: [GUIDNAME 10102]
+41602024=<icon type="autosize" guid="2600236" /> [GUIDNAME 41602064]: [GUIDNAME 10262]
+41602029=<icon type="autosize" guid="2600236" /> [GUIDNAME 41602064]: [GUIDNAME 10056]
+41602030=ScenarioBalancing
+41602045=<icon type="autosize" guid="2600236" /> [GUIDNAME 41602064]: [GUIDNAME 10149]
+41602046=<icon type="autosize" guid="2600236" /> [GUIDNAME 41602064]: [GUIDNAME 10050]
+41602047=<icon type="autosize" guid="2600236" /> [GUIDNAME 41602064]: [GUIDNAME 10082]
+41602048=<icon type="autosize" guid="2600236" /> [GUIDNAME 41602064]: [GUIDNAME 10070]
+41602055=<icon type="autosize" guid="2600236" /> [GUIDNAME 41602064]: [GUIDNAME 10193]
+41602056=<icon type="autosize" guid="2600236" /> [GUIDNAME 41602064]: [GUIDNAME 10192]
+41602057=<icon type="autosize" guid="2600236" /> [GUIDNAME 41602064]: [GUIDNAME 10267]
+41602064=Construction option
+41602075=This scenario is not available.
+
+
+# Audios -1 - -1
+
+41602071=We will only be able to clarify the cause of the catastrophic failure if we manage to create a simulation model that can trace the exact course of the disaster. However, E.T.O. doesn't have the staff for that ...
+41602072=In order to gather sufficient qualified staff, it will be necessary to create a unique infrastructure. And we must unite our forces with those of Global Trust and the Eden Initiative.
+41602073=You did it! You managed to create a true scientific center!
+41602074=Without all of these Scientists, E.T.O. would never have been able to create the simulation model. This model will take our analysis a big step forward.
+
+
+# Mission 03 (1000 GUIDs) 41603000 - 41603999
+
+
+
+# General -1 - -1
+
+41603000=Long-distance supply
+41603001=<p>Use Energy transmitters to supply an Island with large amounts of Energy.</p>
+41603002=<p>Part of the analysis consists of material tests, but the complex tests required tremendous amounts of Energy. Since the handling of that amount of Energy in the immediate vicinity of the tests would be too dangerous, Hiro Ebashi asks you to use Energy transmitters to run the tests from a safe distance.</p> <p><icon type="autosize" guid="2600194" /> Scenario goals:<br/>- Build two Laboratories and an Academy<br/>- Transfer 1500 Energy via Energy transmitters</p> <p><senatesubhead>Focus: Development, Energy</senatesubhead></p>
+41603003=In the worst case, the results of the material tests would be distorted if the necessary safety distance from the Energy supply is not guaranteed.
+
+
+# Story Quest -1 - -1
+
+
+
+# Main Quest -1 - -1
+
+41603007=[GUIDNAME 41603000]
+41603008=Ensure sufficient Energy transfer to test the Energy transmitter I developed.
+41603009=WinSubQuest1
+41603010=WinSubQuest2
+41603011=<p>To perform the cleanest possible test, supply [QUEST_CITY] with Energy solely by Energy transmitter.</p>
+41603012=LoseQuest
+41603013=Inaccuracies
+41603014=LCSubQuest
+41603015=Do not erect any Energy generating Buildings in [QUEST_CITY].
+41603016=Tear down all of the Energy generating Buildings in [QUEST_CITY]
+41603017=Achieve the following in [QUEST_CITY]: [QUEST_ISLANDCOUNTER]
+41603031=WinSubQuest3
+41603032=Build the following buildings in [QUEST_CITY]: [QUEST_WINCONDITION_OBJECTS]
+41603036=WinQuest
+41603037=What are you doing? We don't need inaccurate results!
+41603050=<line>Maintain the following condition in [QUEST_CITY] for at least [QUEST_WINCONDITION_REMAINING_DURATION] minutes:</line>
+
+
+# Side Quest -1 - -1
+
+
+
+# Eco Leader -1 - -1
+
+41603018=Workforce
+41603019=We can always use able workers!
+41603020=The fast win!
+41603021=The distribution of perishable products must be accomplished quickly!
+41603022=Accompaniment
+41603023=Our representative must be accompanied on a crucial mission.
+41603029=In the way
+41603033=Smash the Blockade in front of [QUEST_SENDER]'s [QUEST_EXECUTION_PLACE].
+41603034=[QUEST_SENDER] asks you to break the Blockade in front of her [QUEST_EXECUTION_PLACE].
+41603038=These competitors have completely lost their minds!
+
+
+# Tycoon Leader -1 - -1
+
+41603024=[GUIDNAME 41603018]
+41603025=[GUIDNAME 41603020]
+41603026=[GUIDNAME 41603022]
+41603028=[GUIDNAME 41603027]
+41603030=[GUIDNAME 41603029]
+41603035=[QUEST_SENDER] asks you to break the Blockade in front of his [QUEST_EXECUTION_PLACE].
+41603039=[GUIDNAME 41603038]
+
+
+# Tech Leader -1 - -1
+
+41603027=Scientific expedition
+
+
+# Mood -1 - -1
+
+
+
+# Intro/Outro -1 - -1
+
+41603046=[THIRDPARTY_SENDER_PLAYER] informs you of the exact parameters of the material tests.
+41603047=[THIRDPARTY_SENDER_PLAYER] would like to point out that the correct supply of Energy could make or break the test.
+41603048=[THIRDPARTY_SENDER_PLAYER] acknowledges that the Academy is now supplied with sufficient Energy.
+41603049=[THIRDPARTY_SENDER_PLAYER] is relieved that the tests can finally be made.
+
+
+# Hidden Quest -1 - -1
+
+
+
+# Audios -1 - -1
+
+41603042=We need accurate data on the materials used and their composition. However, the tests require enormous amounts of Energy for the complex calculations to be made.
+41603043=In order not to distort the measurement results, it is of paramount importance that you ensure a large enough safety distance from Energy producing Buildings. So take advantage of the Energy transmitters to maintain the necessary safety distance.
+41603044=Fantastic! You managed to ensure a secure supply of Energy.
+41603045=Thanks to you we can now narrow down the source of the malfunction even further. The initial results already look very promising.
+
+
+# Mission 05 (1000 GUIDs) 41604000 - 41604999
+
+
+
+# General -1 - -1
+
+41604000=Saving a miracle
+41604001=<p>Help Hiro Ebashi with the repairs.</p>
+41604002=<p>Thanks to your vigorous support, Dr. Ebashi succeeded in developing a concept for repairing his Geothermal power plant. However, the risky work is in danger of triggering further Tsunamis. Help Dr. Ebashi build a Control center to monitor the repairs and make the vulnerable sector safe again.</p> <p><icon type="autosize" guid="2600194" /> Scenario objectives:<br/>- Help Dr. Ebashi build his Control center<br/>- Prevent Dr. Ebashi's Control center from being hit by more than 3 Tsunamis</p> <p><senatesubhead>Focus: Quests</senatesubhead></p>
+41604003=They had called it "energy miracle" and now... I still can't believe it.<br />These repairs have to be done like open heart surgery. I strongly hope, noone gets hurt...
+
+
+# Story Quest -1 - -1
+
+41604036=Prevent Dr. Ebashi's Control center from being hit by more than 3 Tsunamis<br /> Tidal waves to date: [QUEST_VICTORYCONDITION_ASSETCOUNTER_CURVALUE] / 3
+41604037=Help Dr. Ebashi build his Control center.
+41604006=[GUIDNAME 41604000]
+41604016="It shames me to know my research caused this disaster. And now I need your help to set things right again."
+41604015=Help Dr. Ebashi help repair the Geothermal power plant.
+
+
+# Aquanaut -1 - -1
+
+
+
+# Deliveries -1 - -1
+
+
+
+# DeliverMotor -1 - -1
+
+41604011=Powerless
+41604024="Heavy machinery is required to repair the Power plant. And now they're broken, too!"
+
+
+# DeliverFood -1 - -1
+
+41604023=Emergency rations
+41604017="Our teams haven't received any Food for ages. If they're forced to leave the Power plant, another disaster could occur!"
+
+
+# DeliverNeuroimplants -1 - -1
+
+41604013=New strength
+41604021="My staff are so tired from overwork that they are on the verge of giving up."
+
+
+# DeliverRepairMaterial -1 - -1
+
+41604018=Bad design
+41604032="An accident tore a hole in the wall of an underwater repair facility. They need repair materials fast."
+
+
+# DeliverCommunicators -1 - -1
+
+41604012=Remote control
+41604022="We need a stronger transmitter if we want to keep that Power plant under control!"
+
+
+# AdditionalDelivery01 -1 - -1
+
+41604062=Flushed away
+41604063="My men have sent out a mayday! An explosion washed the crew away from their workplaces on the outside wall!"
+
+
+# AdditionalDelivery02 -1 - -1
+
+41604064=Fuel
+41604065="Hurry! We urgently need Fuel for our welding machines!"
+
+
+# AdditionalDelivery03 -1 - -1
+
+41604066=Expertise
+41604067="The new control module can't be made without additional skilled personnel."
+
+
+# AdditionalDelivery04 -1 - -1
+
+41604068=Limited storage
+41604069="It is impossible to store all the materials we need down here."
+
+
+# AdditionalDelivery05 -1 - -1
+
+41604070=Individual error
+41604071="Even my employees are only human ... I just hope we can iron out this problem!"
+
+
+# AdditionalDelivery06 -1 - -1
+
+41604072=Hydraulic
+41604073="Our people down there just don't have the skills in this field. Please help us out!"
+
+
+# AdditionalDelivery07 -1 - -1
+
+41604074=Deep-sea construction
+41604075="The enormous pressure at that depth requires more stable material!"
+
+
+# AdditionalDelviery08 -1 - -1
+
+41604076=Bungling
+41604077="The tradesmen interpreted the original plans differently than intended."
+
+
+# AdditionalDelivery09 -1 - -1
+
+41604078=No questions
+41604079="I know this request comes as somewhat of a surprise. But we can't go any further down here without!"
+
+
+# AdditionalDelivery10 -1 - -1
+
+41604080=Illness
+41604081="Our technicians caught an infection on their last dive."
+
+
+# MainQuests -1 - -1
+
+
+
+# MainQuest1 -1 - -1
+
+41604030=[GUIDNAME 41604039]
+41604008=[THIRDPARTY_SENDER_PLAYER] asks you to deliver the following Modules: [QUEST_GETWARES]
+41604031="The electricity fluctuations here are enormous. We need a constant supply of Energy quickly before we can begin building the Repair drone."
+
+
+# MainQuest2 -1 - -1
+
+41604027=[GUIDNAME 41604039]
+41604029=[THIRDPARTY_SENDER_PLAYER] asks you to supply the following Goods and Modules: [QUEST_GETWARES]
+41604014="We need special Tools and materials to build a Repair robot."
+
+
+# MainQuest3 -1 - -1
+
+41604026=[GUIDNAME 41604039]
+41604019=[THIRDPARTY_SENDER_PLAYER] asks you to provide the following Technologies: [QUEST_GETWARES]
+41604020="Before we enter the last phase and head for the Power plant, we have to first turn it off and do some installations on it."
+
+
+# General -1 - -1
+
+41604033=[QUEST_SENDER] thanks you for your quick cooperation.
+41604028=Develop the following Modules in your Research lab and deliver them to [QUEST_SENDER]'s [QUEST_EXECUTION_PLACE]: <br /> [QUEST_GETWARES]
+
+
+# Main Quest -1 - -1
+
+
+
+# Deliveries -1 - -1
+
+41604039=Gradual development
+41604040=Make the following Deliveries in order to equip the Control center with the necessary equipment:
+41604041="All of these components are essential to maintain control of the Geothermal power plant during the repairs."
+41604042=[GUIDNAME 5000037] qeuip his Control center with the necessary equipment.
+
+
+# Tsunamis -1 - -1
+
+41604043=Fulfill the following requirements in order to prevent a tidal wave:
+
+
+# Side Quest -1 - -1
+
+
+
+# Mood -1 - -1
+
+
+
+# Intro/Outro -1 - -1
+
+41604046=[THIRDPARTY_SENDER_PLAYER] reported that he was able to locate the cause of the Power plant malfunction.
+41604047=[THIRDPARTY_SENDER_PLAYER] explains his plan in detail.
+41604048=[THIRDPARTY_SENDER_PLAYER] points out that new tidal waves could occur at  any time.
+41604049=[THIRDPARTY_SENDER_PLAYER] can no longer prevent the Tsunami.
+41604050=[THIRDPARTY_SENDER_PLAYER] must acknowledge that his plan has failed.
+41604051=[THIRDPARTY_SENDER_PLAYER] notes that his Control center is able to control the Power plant.
+41604052=[THIRDPARTY_SENDER_PLAYER] announces that the repairs to the Geothermal power plant were successful.
+41604053=[THIRDPARTY_SENDER_PLAYER] thanks you for your support.
+
+
+# Hidden Quest -1 - -1
+
+41604034=StoryQuestSubquestTsunami
+41604035=StoryQuestSubquestDeliveries
+41604038=WinQuest
+41604045=LoseQuest
+
+
+# Audios -1 - -1
+
+41604054=With your support I was able to locate the malfunction in the Geothermal power plant. It would take too long to explain the exact reason. Let us therefore simply say that an extremely strong pulse was unintentionally emitted while concentrating the Energy. We cannot disable the Power plant without causing more of these uncontrollable pulses.
+41604055=But be warned, as repairing the system is dangerous, too. Since we cannot turn the Power plant off, the work must be carried out directly on the core itself. Construction of a Control center has therefore begun on a neighboring Island, which will then coordinate these complex interventions.
+41604056=We dare not delay the repairs! The construction of this Control center is the key to preventing further tidal waves. You have to protect the works from all threats, while at the same time helping us repair the Geothermal power plant!
+41604057=Oh no! A tidal wave!
+41604058=What terrible destruction! What can we do?
+41604059=Great! The Control center is ready to go! The repair work can now be continued in safety.
+41604060=Very good! That devastating pulse will never happen again! I owe you and all those involved my most sincere thanks.
+41604061=Thanks to you, we can continue to hope to one day enable the peaceful and safe use of Geothermal energy. Humanity will never forget you.
+
+
+# Assets -1 - -1
+
+41604044=TsunamiShip
+
+
+# Mission 04 (2000 GUIDs) 41605000 - 41606999
+
+
+
+# General -1 - -1
+
+41605000=Forced evacuation
+41605001=<p>Earn enough Credits to purchase the majority of Shares in Vadim Sokow's Island.</p>
+41605002=<p> It is paramount that the disturbances caused by seismic activity in this sector are reduced to a minimum during the repairs. Ironically, Sokow Vadim has now started buying up the Islands and has begun drilling the first Oil wells. Tilda's intervention hasn't had any effect so far.<br />The drilling must be stopped immediately, but an open conflict is unthinkable. A war is the last thing this sector needs now.</p> <p><icon type="autosize" guid="2600194" /> Scenario goals:<br/>- Build a Financial or Convention center<br/>- Take over Sokow's Island</p> <p><senatesubhead>Focus: Trade</senatesubhead></p>
+41605003=All that talking has simply been of no use whatsoever. Now he has even taken over one of my communes.
+41605004=The Tsunami was a terrible tragedy, yes, but the show must eventually go on.
+
+
+# Story Quest -1 - -1
+
+41605006=[GUIDNAME 41605000]
+41605008=Stop Vadim Sokow's drilling for Oil by buying up his headquarters in this sector and returning it to Tilda.
+41605010="There is a risk of aftershock is in the sector. The slightest shock could be enough to trigger another tidal wave!"
+
+
+# Main Quest -1 - -1
+
+41605014=[GUIDNAME 5000037] to buy Shares in an Island.
+41605015=[GUIDNAME 5000037] to take over a City.
+41605016=Purchase the following number of [GUIDNAME 41002004] in [QUEST_CITY]: <br /> [QUEST_ISLANDCOUNTER]
+41605017=Take over of [QUEST_CITY].
+41605024=Build a <icon type="autosize" guid="10026" /> [GUIDNAME 10026] or a <icon type="autosize" guid="10172" /> [GUIDNAME 10172].
+
+
+# Side Quest -1 - -1
+
+
+
+# Supporter -1 - -1
+
+
+
+# BalanceQuest -1 - -1
+
+41605018=In the red
+41605019=[GUIDNAME 5000037] to save enough Credits to buy back [GUIDNAME 2300105].
+41605025="Hey! How do you buy my Island back with a Balance like this?"
+
+
+# CreditsQuest -1 - -1
+
+41605037=Savings program
+41605038=CQSubQuest1
+41605039=CQSubQuest2
+41605040=CQSubQuest3
+41605041="The takeover will cost you a pretty pile of Credits! Better make sure you're prepared!"
+41605045=[THIRDPARTY_SENDER_PLAYER] hopes that you saved have enough Credits to take over [GUIDNAME 2300105].
+41605046=Prepare yourself for the costly takeover of [GUIDNAME 2300105].
+
+
+# MilitaryQuest -1 - -1
+
+41605042=Precaution
+41605043=[GUIDNAME 41605042]
+41605044="Sokow will become suspicious soon! You should be prepared for the worst."
+
+
+# OilBaron -1 - -1
+
+41605029=Obligations of the Oil industry
+41605030=Proof of loyalty
+41605031=Business partners
+41605032=Too much influence
+41605033="Ah, you want to join my business ...? Then look for new sources of Oil!"
+41605034="Twenty percent of my Shares ... I see ... I just hope that my Oil hasn't gone to your head ..."
+41605035="Transnational Sokow is always looking for investors and business partners. That could be something for you ... Right?"
+41605036="What's this? Did you really think that any Tom, Dick or Harry can just walk in and try to take over my business?"
+41605057=Do not buy more than two [GUIDNAME 41002004] in [QUEST_CITY].
+
+
+# Mood -1 - -1
+
+
+
+# Intro/Outro -1 - -1
+
+41605047=[THIRDPARTY_SENDER_PLAYER] notices that Sokow Transnational has spread out through this sector.
+41605048=[THIRDPARTY_SENDER_PLAYER] shows no intention of meeting Tilda's demand to stop the drilling.
+41605049=[THIRDPARTY_SENDER_PLAYER] asks for help regaining in her Island to make the sector safe again.
+41605050=[THIRDPARTY_SENDER_PLAYER] advises you to buy back the Island to avoid further danger to the sector.
+41605051=[THIRDPARTY_SENDER_PLAYER] cannot believe that he has to turn his Island over to you.
+41605052=[THIRDPARTY_SENDER_PLAYER] is overjoyed that you have freed her Settlement.
+41605053=[THIRDPARTY_SENDER_PLAYER] is grateful that you were able to halt Oil drilling in this sector.
+
+
+# Hidden Quest -1 - -1
+
+41605011=WinQuest
+41605012=ShareQuest
+41605013=TakeoverQuest
+41605020=BuildingQuestEcos
+41605021=BuildingQuestTycoons
+41605022=SubQuestBuildings
+41605023=SubQuestBuildingToggle
+41605026=FirstShareToggle
+41605027=SecondShareToggle
+41605028=ThirdShareToggle
+
+
+# Audios -1 - -1
+
+41605054=Vadim Sokow still doesn't seem to have grasped the seriousness of the situation, and is continuing his production in a normal manner.
+41605055=If we want to avoid a new disaster, we have to protect the sea floor from any further shocks! Sokow will have to stop drilling for Oil in this sector.
+41605056=Very good! Securing this sector was another important step towards finally beginning the repairs.
+
+
+# Scenario01 41607000 - 41607499
+
+
+
+# General -1 - -1
+
+41607000=Environmental warriors
+41607001=<p>Extremely poor environmental conditions prevail in this rugged area. There is little fertile land, and Resources deposits are few and far between. Prove that you are still able to focus on sustainability in spite of these circumstances.</p> <p><icon type="autosize" guid="2600194" /> Scenario goal:<br/>- Achieve a global Ecobalance of +1000</p> <p><senatesubheadfix>Focus: Ecobalance</senatesubheadfix></p>
+41607003=This area was subject to heavy exploitation for years. If we all roll up our sleeves together, we can transform it into a lush green paradise.
+41607004=Prove that you can fight tenaciously for nature.
+41607005=<p>Improve the Ecobalance in this rough sector.</p>
+
+
+# Scenario02 41607500 - 41607999
+
+
+
+# General -1 - -1
+
+41607500=The future of research
+41607502=<p> Put yourself in a Scientist's shoes and build a potent research Metropolis.</p> <p><icon type="autosize" guid="2600194" /> Scenario goals: <br/>- Settle 2500 Geniuses.<br/>- Build a Science forum<br/>- Develop a valuable Technology</p><p><senatesubheadfix>Focus: Development, Research</senatesubheadfix></p>
+41607503=<p> Build a magnificent Tech Settlement and bank on research.</p>
+41607504=This area is perfect for science and research.
+41607505=It's time to show the world just how important science and research are to our lives!
+41607506=MainSubQuest1
+41607507=MainSubQuest2
+41607508=MainSubQuest3
+
+
+# Scenario03 41608000 - 41608499
+
+
+
+# General -1 - -1
+
+41608000=Monumentality
+41608001=<p>Face the greatest challenge and show how Ecos, Techs and Tycoons can together shape the world of tomorrow.</p> <p><icon type="autosize" guid="2600194" />  Scenario goals:<br />- Settle 5000 Eco Executives, 5000 Tycoon Executives and 2500 Geniuses.<br/>- Build a Parliament, a Corporate headquarters and a Scientific forum</p><p><senatesubheadfix> Focus: Development, Final phase</senatesubheadfix></p>
+41608002=<p>Settle this area and build three Monuments.</p>
+41608003=Let's see if we will ever be able to live under one roof with those exploiters ...
+41608004=Efficiency can also be shared with others, unless they cooperate with us ...
+41608005=Science can be combined with both sustainability and efficiency.
+41608006=WinSubQuest1
+41608007=WinSubQuest2
+41608008=WinSubQuest3
+41608010=WinSubQuest4
+41608009=Only a few humans have dared to this task.
+
+
+# General -1 - -1
+
+41605005=Miracle in danger
+
+
+# Third Parties 41700000 - 42699999
+#-----------------------------------
+
+
+
+# Default Text 41700000 - 41719999
+
+
+
+# Hostile Takeover 41700000 - 41700199
+
+41700000=[THIRDPARTY_SENDER_PLAYER] suspiciously notes that you have bought Shares in [THIRDPARTY_CITY].
+41700001=[THIRDPARTY_SENDER_PLAYER] is annoyed that you now have a majority of Shares in [THIRDPARTY_CITY].
+41700002=[THIRDPARTY_SENDER_PLAYER] is outraged that you have taken over [THIRDPARTY_CITY].
+41700003=[THIRDPARTY_SENDER_PLAYER] is surprised that you have bought Shares in [THIRDPARTY_CITY].
+41700004=[THIRDPARTY_SENDER_PLAYER] triumphantly announces the imminent takeover of your Settlement of [THIRDPARTY_CITY].
+
+
+# Quests 41700200 - 41700399
+
+
+
+# GuidingEscort -1 - -1
+
+41700200=[THIRDPARTY_SENDER_PLAYER] asks if the Tracking device is now to be brought on board your Vehicle.
+41700201=[GUIDNAME 5000037] to escort the [QUEST_VEHICLETYPE] to [QUEST_AMOUNT] [QUEST_NUMBER] on the map.
+41700202=[THIRDPARTY_SENDER_PLAYER] tells you that the [QUEST_VEHICLETYPE] has fulfilled its task.
+41700203=[GUIDNAME 5000037] to accompany a Vehicle to different places and protect it.
+
+
+# TP Special Messages 41700400 - 41700599
+
+
+
+# E.V.E. -1 - -1
+
+41700400=[THIRDPARTY_SENDER_PLAYER] tells you that Shares in your Settlement are now trading on the sector-wide financial market.
+41700401=[THIRDPARTY_SENDER_PLAYER] recommends purchasing Island Shares from your Warehouse as an investment.
+41700402=[THIRDPARTY_SENDER_PLAYER] tells you that the takeover of [THIRDPARTY_CITY] was successful, but that all of the Buildings were demolished by the previous owner.
+41700403=[THIRDPARTY_SENDER_PLAYER] tells you that the takeover of [THIRDPARTY_CITY] was successful.
+
+
+# EVE Audio AddOn 41720000 - 41729999
+
+
+
+# News Messages 41720000 - 41720499
+
+
+
+# Hostile TakeOver -1 - -1
+
+
+
+# Neutral Share lost to TP -1 - -1
+
+41720000=Registering Share purchase
+41720001=Neutral share bought
+41720002=Neutral share has been obtained
+
+
+# Player Share lost to TP -1 - -1
+
+41720003=Note: Loss of Share to opponent
+41720004=Note: Share no longer in your possession
+41720005=Note: One of your Shares has been acquired by an opponent
+
+
+# TP has Share Majority on Player Island -1 - -1
+
+41720006=Warning: Hostile majority of Shares. Island takeover a danger!
+41720007=Warning: Critical majority. Impending Island takeover!
+41720008=Warning: Registering enemy majority of Shares. Danger of Island takeover!
+
+
+# TP performs Hostile TakeOver -1 - -1
+
+41720009=Alert: Enemy taking over Island!
+41720010=Alert: Island purchased by opponents
+41720011=Alert: Island lost to enemy
+
+
+# Share Majority Player -1 - -1
+
+41720012=Share majority achieved. Takeover possible.
+41720013=Majority of Island Shares acquired. Takeover possible.
+41720014=Transaction completed. New majority owner: you.
+
+
+# Share Purchase general -1 - -1
+
+41720015=Share purchase registered.
+41720016=Island Share changes owner.
+41720017=Register movement on Share market
+
+
+# Tsunami -1 - -1
+
+41720018=Warning! Seismic activity located!
+41720019=Alert! Tsunami is spreading!
+
+
+# TakeOver 41721000 - 41721099
+
+
+
+# Quest UnlockTakeOver 41721000 - 41721029
+
+41721000=Access to financial markets established. Share trading possible.
+41721001=Investment parameters favorable. I recommend purchasing Shares.
+
+
+# Quests TakeOver Successful 41721030 - 41721079
+
+
+
+# Player takes over TP island 41721030 - 41721049
+
+41721030=Signing over of Island in progress ... Enemy initiating self-destruct ... Island signed over!
+
+
+# Player takes over other Player island 41721050 - 41721069
+
+41721050=Signing over of Island in progress ... Island signed over!
+
+
+# ScenarioMovie 41721100 - 41721199
+
+41721100=Can you hear me? This is an emergency! My deep-sea monitoring stations have recorded a quake with a magnitude of 9.1 after a series of tests an hour ago. A massive Tsunami is headed for Tilda Jorgensen's Settlements and the Vadim Sokov's Factories as we speak! One moment, I'm patching the video signal through to them.
+41721101=All those innocent people! What have I done? What have I missed? I ... I don't know what to say.
+41721102=Please, have a look at my calculations! I just can't find a mistake, and yet I must have missed something. I'm looking at the ruins of my research. The harvesting of deep-sea Geothermal Energy is supposed to make life easier, not destroy it.
+41721103=But the error analysis has to wait in the face of a global catastrophe like this. The most important senators of the World Council insist that you take your Ark and go onsite to address the crisis. All of the Factions will support you to the best of their abilities, and E.T.O. will do their part, as well.
+41721104=Help the victims of this disaster! In the meantime, I'll try to find out what caused the Tsunami and will get in touch as soon as I have any news. End of message.
+
+
+# Misc 41721300 - 41721309
+
+
+
+# Datalog -1 - -1
+
+41721300=Incidentally, I can also explain how to prepare a truly delicious coffee, if you wish.
+41721301=You look so sweet when you squint while reading like that.
+41721302=No, my name is not Siri and no, I do not know the meaning of life.
+41721303=Judging by the wrinkles on your forehead, there are still some unanswered questions.
+41721304=Cannot find a particular Entry? Do not worry, the Data log will be expanded "promptly".
+
+
+# MissionBriefing -1 - -1
+
+41721305=In the meantime, I could have vacuumed the entire Ark once through.
+41721306=If you wish, I can complete a risk analysis first.
+41721307=By the way, the Mission does not start automatically.
+41721308=Who in the world entered "Decisive" into your personnel file under "Strengths"?
+41721309=Whoops! Did you just say something? I dozed off, there.
+
+
