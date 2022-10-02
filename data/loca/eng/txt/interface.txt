@@ -4226,7 +4226,7 @@
 1123278=Fascinating new production buildings and goods 
 1123279=The Tech Genius
 1123280=Tech colony 
-1123281=<addonsubline>Play the Techs as a true fraction</addonsubline>Unlock the Tech Geniuses and discover the fascinating possibilities this fraction has to offer. Fulfill the needs of the most advanced fraction ANNO has ever seen. The new building and research features guarantee endless entertaining gameplay. This is the ultimate challenge for every ANNO master builder.
+1123281=<addonsubline>Play the Techs as a true faction</addonsubline>Unlock the Tech Geniuses and discover the fascinating possibilities this faction has to offer. Fulfill the needs of the most advanced faction ANNO has ever seen. The new building and research features guarantee endless entertaining gameplay. This is the ultimate challenge for every ANNO master builder.
 1123282=Tech Monument
 1123283=<addonsubline>The advancement of a whole generation combined in one building</addonsubline>The Techs are getting their own monument which mirrors the highest standards of human architecture. Gracious and noble at the same time the Tech monument will become the center of every city. Thanks to its power the monument immediately subdues  the construction area of the complete island - without any restrictions. Yet, do not underestimate the costs thereby incurred.<br />
 1123284=The World of Techs
