@@ -380,7 +380,7 @@
 41001241=Provides <b>Residences</b> on all your Islands complete
 41001246=Reduces the cooldown after purchasing Shares.
 41001247=<icon type="autosize" guid="2600083"/> Cooldown:
-41001251=Improves all <b>Ornamental buildings</b>  in this sector.
+41001251=Improves all <b>Ornamental buildings</b> in this sector.
 
 
 # Flavor Text Parts -1 - -1
@@ -403,9 +403,9 @@
 41001233=Makes the digital visualization of the submerged Submarine invisible to enemies.
 41001234=Drops a <b>Naval mine</b> at the point where it is activated. The mine explodes when enemies are in its detection radius, damaging all Units in the area, both enemy and allied.
 41001236=Redirects <b>one Long-range missile once</b> fired at the Island, sending it back to its source.
-41001235=Ends all <b>Uprisings</ b> by an Islands population.
-41001237=Eliminates the negative environmental impact of <b>Ruins</ b> on an Island.
-41001238=Reveals any <b>Silent running</ b> Submarines in the area.
+41001235=Ends all <b>Uprisings</b> by an Islands population.
+41001237=Eliminates the negative environmental impact of <b>Ruins</b> on an Island.
+41001238=Reveals any <b>Silent running</b> Submarines in the area.
 41001239=Causes the <b>Unit to be escorted</b> to follow your Unit.
 41001249=Passive ability
 41001250=Uncovers <b>all Islands</b> in in this sector.
@@ -545,10 +545,10 @@
 41002021=Goods (Warehouse)
 41002022=Modules (Laboratory)
 41002023=Devs (Academy) / Prototypes (third parties)
-41002024=<b>Category:</ b> [SCIENCE_ITEM_CATEGORY]
+41002024=<b>Category:</b> [SCIENCE_ITEM_CATEGORY]
 41002100=Credits / Licenses
 41002113=Formula not yet discovered
-41002114=Formulas can be discovered in the Academy using <b>Basic research</ b> or unlocked under <b>Bonus content</ b> in the <b>Profile</ b>.
+41002114=Formulas can be discovered in the Academy using <b>Basic research</b> or unlocked under <b>Bonus content</b> in the <b>Profile</b>.
 41002115=Special actions
 41002120=Basic research allows you to discover previously unknown Formulas in the area of [GUIDNAME] research. Once a new formula has been discovered, you can make the appropriate Item here in the Academy.<br /><br />Since lucrative patents arise during Basic research, Licenses are generated for the duration of the Basic research .
 

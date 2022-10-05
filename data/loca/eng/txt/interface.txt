@@ -3807,7 +3807,7 @@
 1121267=Green team
 1121268=Points
 1121269=Add Player
-1121271=<b>Active players:</ b>
+1121271=<b>Active players:</b>
 1121272=Mission
 1121274=Sector map
 1121275=Conflict from
@@ -4727,11 +4727,11 @@
 
 # Descriptions -1 - -1
 
-1206024=Sends a </b>Unit</ b> on an Expedition outside the Sector. <br />The required Supplies are used up during the Expedition. You lose control of the Unit for the duration of the Expedition.
-1206025=Allows an <b>armed Unit </ b>to attack targets in peacetime without having to declare War.
+1206024=Sends a </b>Unit</b> on an Expedition outside the Sector. <br />The required Supplies are used up during the Expedition. You lose control of the Unit for the duration of the Expedition.
+1206025=Allows an <b>armed Unit </b>to attack targets in peacetime without having to declare War.
 1206026=Levies <b>Duties on trade at the Warehouse</b> above a certain quantity of Goods.
 1206038=Creates a new <b>Fertility<b/> on one of your Islands with a vacant Fertility.<br />Must be activated in your Warehouse.
-1206048=Contains <b>important information</ b>.
+1206048=Contains <b>important information</b>.
 1206175=Makes a <b>Unit</b> immune to enemy attack.
 1206192=Damages <b>all Units in the vicinity</b>, both enemy and allied Units.<br/>The attacking Unit is destroyed in the process.
 1206343=Renders <b>all Units</b> within a certain radius unable to move or fight for a short period.
@@ -4753,7 +4753,7 @@
 1206464=Makes <b>Objects</b> on the Sea bed visible.
 1206484=Activates a <b>Drone</b> which supports your Unit during combat.
 1206526=Generates <b>Credits</b> over a certain period of time.
-1206497=Ends the <b>activity of a Black Smoker</ b> on one of your Islands and taps a Raw material deposit.
+1206497=Ends the <b>activity of a Black Smoker</b> on one of your Islands and taps a Raw material deposit.
 1206562=If a sound wave modulator is attached to a ship, it sometimes attracts Dolphins, who then follow the Ship, swim in front of it, or perform spectacular leaps out of the water.
 1206565=Activates a <b>Drone</b> that automatically attacks enemies in the area.
 1206574=Generates a fluorescent biosphere around your Ark which attracts all kinds of birds and fish that will gather around the Ark as if it were an irridescent refuge!
